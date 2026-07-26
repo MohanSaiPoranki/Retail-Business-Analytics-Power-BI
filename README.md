@@ -494,15 +494,15 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 ```
 
 
-\## Dashboard Preview
+## Dashboard Preview
 
 
 
-\### Home
+### Home
 
 
 
-!\[Home](PowerBI/Dashboard\_Screenshots/Home.png)
+![Home](PowerBI/Dashboard\_Screenshots/Home.png)
 
 
 
@@ -510,11 +510,11 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-\### Executive Overview
+### Executive Overview
 
 
 
-!\[Executive Overview](PowerBI/Dashboard\_Screenshots/Executive\_Overview.png)
+![Executive Overview](PowerBI/Dashboard\_Screenshots/Executive\_Overview.png)
 
 
 
@@ -522,11 +522,11 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-\### Sales Dashboard
+### Sales Dashboard
 
 
 
-!\[Sales Dashboard](PowerBI/Dashboard\_Screenshots/Sales\_Dashboard.png)
+![Sales Dashboard](PowerBI/Dashboard\_Screenshots/Sales\_Dashboard.png)
 
 
 
@@ -534,11 +534,11 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-\### Customers Dashboard
+### Customers Dashboard
 
 
 
-!\[Customers Dashboard](PowerBI/Dashboard\_Screenshots/Customers\_Dashboard.png)
+![Customers Dashboard](PowerBI/Dashboard\_Screenshots/Customers\_Dashboard.png)
 
 
 
@@ -546,11 +546,11 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-\### Products Dashboard
+### Products Dashboard
 
 
 
-!\[Products Dashboard](PowerBI/Dashboard\_Screenshots/Products\_Dashboard.png)
+![Products Dashboard](PowerBI/Dashboard\_Screenshots/Products\_Dashboard.png)
 
 
 
@@ -558,11 +558,11 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-\### Inventory Dashboard
+### Inventory Dashboard
 
 
 
-!\[Inventory Dashboard](PowerBI/Dashboard\_Screenshots/Inventory\_Dashboard.png)
+![Inventory Dashboard](PowerBI/Dashboard\_Screenshots/Inventory\_Dashboard.png)
 
 
 
@@ -570,11 +570,11 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-\### Marketing Dashboard
+### Marketing Dashboard
 
 
 
-!\[Marketing Dashboard](PowerBI/Dashboard\_Screenshots/Marketing\_Dashboard.png)
+![Marketing Dashboard](PowerBI/Dashboard\_Screenshots/Marketing\_Dashboard.png)
 
 
 
@@ -582,11 +582,11 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-\### Logistics Dashboard
+### Logistics Dashboard
 
 
 
-!\[Logistics Dashboard](PowerBI/Dashboard\_Screenshots/Logistics\_Dashboard.png)
+![Logistics Dashboard](PowerBI/Dashboard\_Screenshots/Logistics\_Dashboard.png)
 
 
 
@@ -594,7 +594,7 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-\### Product Details
+### Product Details
 
 
 
