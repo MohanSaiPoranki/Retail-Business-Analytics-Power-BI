@@ -1,0 +1,501 @@
+EmployeeID,EmployeeName,Department,Designation,HireDate,Salary,StoreID,Status
+1,Priya Patel,Finance,Analyst,2022-08-13,1081060,52,Active
+2,Ishaan Nair,Finance,Manager,2021-01-03,540121,37,Active
+3,Vivaan Rao,IT,Associate,2021-11-10,695948,65,Active
+4,Priya Joshi,Operations,Lead,2021-06-17,667350,59,Inactive
+5,Aditya Joshi,HR,Manager,2022-07-14,893582,16,Active
+6,Priya Reddy,Operations,Associate,2024-11-21,352984,36,Inactive
+7,Rahul Verma,IT,Executive,2022-01-22,866467,10,Active
+8,Vikram Joshi,Operations,Associate,2023-09-12,321562,63,Active
+9,Ananya Sharma,Marketing,Analyst,2025-08-09,910845,65,Active
+10,Meera Joshi,Finance,Analyst,2020-05-10,889660,17,Inactive
+11,Sai Joshi,IT,Executive,2019-01-22,908717,43,Inactive
+12,Neha Reddy,Finance,Executive,2024-05-29,734989,27,Inactive
+13,Kavya Joshi,Finance,Analyst,2021-09-11,886517,4,Inactive
+14,Rahul Kumar,Marketing,Analyst,2025-04-03,409932,28,Inactive
+15,Meera Singh,HR,Lead,2022-07-02,770327,55,Active
+16,Priya Gupta,Marketing,Lead,2021-10-28,995000,78,Inactive
+17,Rohan Patel,IT,Associate,2024-12-04,681329,67,Active
+18,Ananya Reddy,Sales,Associate,2022-04-05,1152119,22,Active
+19,Neha Singh,HR,Associate,2021-11-21,625534,75,Active
+20,Aditya Joshi,HR,Associate,2022-04-13,1111279,35,Active
+21,Aarav Joshi,HR,Analyst,2023-08-15,-450000,2,Inactive
+22,Ishaan Kumar,Marketing,Associate,2023-07-07,949682,75,Active
+23,Rahul Rao,Finance,Manager,2024-12-16,668402,16,Active
+24,Vikram Sharma,HR,Executive,2021-03-23,654823,68,Inactive
+25,Kavya Reddy,Supply Chain,Executive,2020-11-28,937926,43,Inactive
+26,Rahul Joshi,Sales,Manager,2019-07-12,440625,2,Inactive
+27,Sneha Rao,Sales,Lead,2022-03-14,348503,27,Inactive
+28,Aarav Reddy,Finance,Lead,2022-10-01,451859,13,Active
+29,Vivaan Verma,Supply Chain,Manager,2024-10-31,384942,64,Active
+30,Aarav Verma,Supply Chain,Manager,2024-12-26,312171,59,Active
+31,Neha Singh,Finance,Manager,2020-01-18,472095,73,Inactive
+32,Kavya Rao,Finance,Associate,2025-05-12,963721,60,Active
+33,Neha Sharma,Sales,Manager,2025-05-15,556008,58,Active
+34,Arjun Rao,Finance,Lead,2025-05-11,860620,25,Inactive
+35,Neha Gupta,IT,Manager,2020-08-04,1149448,78,Inactive
+36,Vivaan Gupta,HR,Executive,2022-04-21,391823,21,Active
+37,Sneha Gupta,Marketing,Lead,2025-04-18,1092381,66,Active
+38,Rahul Kumar,Finance,Lead,2021-01-12,923521,62,Inactive
+39,Kavya Verma,Supply Chain,Manager,2021-01-21,1135095,39,Inactive
+40,Priya Rao,Sales,Executive,2021-11-07,731195,59,Inactive
+41,Ananya Nair,Finance,Manager,2023-08-05,1069040,65,Active
+42,Vivaan Patel,Marketing,Associate,2022-12-24,760011,58,Inactive
+43,Diya Sharma,HR,Executive,2019-12-24,289868,11,Active
+44,Neha Gupta,IT,Analyst,2024-11-03,461087,63,Inactive
+45,Diya Reddy,Marketing,Analyst,2022-05-24,873445,35,Inactive
+46,Kavya Reddy,Finance,Executive,2023-02-11,814480,71,Inactive
+47,Vivaan Verma,Supply Chain,Lead,2021-11-17,298141,17,Inactive
+48,Sneha Singh,Sales,Manager,2023-02-18,856215,78,Active
+49,Ishaan Reddy,IT,Associate,2019-04-06,352655,13,Active
+50,Rohan Nair,Supply Chain,Associate,2020-04-29,767357,76,Active
+51,Meera Gupta,Marketing,Executive,2024-08-17,992504,1,Inactive
+52,Vivaan Patel,HR,Associate,2023-11-28,631113,17,Inactive
+53,Neha Sharma,Supply Chain,Analyst,2020-12-09,1179363,71,Inactive
+54,Arjun Rao,Operations,Analyst,2024-10-24,732825,68,Active
+55,Aditya Patel,IT,Lead,2024-08-05,1084716,49,Inactive
+56,Ananya Gupta,Supply Chain,Lead,2020-10-06,419828,68,Inactive
+57,Vikram Reddy,IT,Executive,2023-06-30,1158231,76,Inactive
+58,Vikram Reddy,Operations,Lead,2020-03-04,786246,78,Active
+59,Aisha Nair,Marketing,Lead,2025-02-20,281348,67,Active
+60,Aditya Reddy,IT,Analyst,2020-03-19,550119,66,Active
+61,Riya Verma,HR,Manager,2020-09-10,499994,58,Inactive
+62,Riya Gupta,Operations,Executive,2021-03-15,288052,42,Inactive
+63,Riya Joshi,Supply Chain,Manager,2023-03-11,660951,67,Inactive
+64,Diya Gupta,IT,Executive,2020-10-08,942153,55,Inactive
+65,Kiran Rao,Operations,Analyst,2019-03-19,763841,58,Active
+66,Sai Verma,Sales,Associate,2022-03-06,553049,18,Active
+67,Vivaan Singh,HR,Executive,2019-01-06,566624,99,Active
+68,Aarav Singh,Operations,Manager,2025-09-09,506749,48,Active
+69,Sai Joshi,IT,Analyst,2025-04-16,396325,55,Inactive
+70,Vivaan Gupta,Finance,Executive,2024-12-19,904707,47,Inactive
+71,Vikram Rao,Operations,Manager,2022-12-12,749164,62,Active
+72,Rohan Sharma,Operations,Analyst,2021-11-12,1096115,73,Inactive
+73,Rahul Kumar,IT,Lead,2022-08-30,997782,79,Inactive
+74,Priya Rao,Finance,Analyst,2025-08-21,1011071,63,Inactive
+75,Priya Patel,Marketing,Associate,2019-02-06,345846,9,Active
+76,Arjun Patel,Marketing,Associate,2025-06-28,444951,66,Active
+77,Nikhil Kumar,HR,Associate,2022-09-08,330281,21,Inactive
+78,Meera Reddy,IT,Manager,2022-11-30,756861,64,Inactive
+79,Sneha Rao,Marketing,Associate,2022-08-30,1150462,58,Inactive
+80,Neha Joshi,Sales,Manager,2019-08-22,510428,29,Inactive
+81,Arjun Nair,Sales,Analyst,2024-11-23,975421,43,Active
+82,Vikram Reddy,Operations,Manager,2024-03-19,307781,27,Active
+83,Diya Rao,Marketing,Associate,2021-08-27,502689,10,Inactive
+84,Neha Singh,Operations,Analyst,2023-03-20,1077382,69,Inactive
+85,Vivaan Patel,IT,Executive,2024-04-18,834271,70,Inactive
+86,Kavya Sharma,IT,Manager,2019-03-06,768033,77,Inactive
+87,Kiran Rao,IT,Associate,2019-06-24,356263,70,Active
+88,Sai Gupta,Finance,Manager,2022-01-17,910413,23,Inactive
+89,Kavya Reddy,Finance,Executive,2019-05-22,1163600,28,Inactive
+90,Aisha Rao,HR,Associate,2023-07-20,326936,35,Inactive
+91,Kavya Reddy,HR,Associate,2022-06-04,945725,76,Active
+92,Vikram Verma,Finance,Executive,2023-08-03,877272,19,Inactive
+93,Diya Joshi,Marketing,Lead,2025-05-10,1184220,44,Inactive
+94,Rohan Kumar,IT,Associate,2023-07-30,621996,23,Inactive
+95,Aisha Nair,Operations,Associate,2020-10-15,-450000,27,Inactive
+96,Ananya Patel,HR,Analyst,2020-06-26,332924,77,Inactive
+97,Rahul Verma,Finance,Executive,2021-10-08,1130512,71,Inactive
+98,Arjun Sharma,Marketing,Lead,2025-06-14,350042,31,Active
+99,Neha Joshi,HR,Executive,2023-04-21,595911,77,Inactive
+100,Neha Gupta,IT,Executive,2022-06-23,1064797,59,Inactive
+101,Ishaan Gupta,Finance,Lead,2020-10-17,1028908,20,Inactive
+102,Vivaan Patel,IT,Associate,2025-01-20,647703,7,Active
+103,Ananya Sharma,Marketing,Executive,2024-11-21,264042,7,Inactive
+104,Priya Gupta,Finance,Associate,2025-01-01,833376,34,Inactive
+105,Aarav Gupta,Marketing,Lead,2021-03-13,808936,1,Active
+106,Sai Nair,Sales,Analyst,2021-03-02,570273,21,Inactive
+107,Aditya Patel,Supply Chain,Analyst,2021-07-25,262644,44,Active
+108,Vikram Verma,Operations,Associate,2020-08-05,448487,39,Inactive
+109,Sneha Sharma,Sales,Analyst,2020-10-17,811124,29,Inactive
+110,Ananya Joshi,Operations,Manager,2022-03-05,284381,72,Active
+111,Nikhil Singh,HR,Lead,2024-01-11,526056,2,Inactive
+112,Arjun Patel,Finance,Analyst,2021-02-24,931310,72,Inactive
+113,Meera Reddy,Supply Chain,Lead,2022-02-16,721015,71,Inactive
+114,Aisha Nair,Marketing,Executive,2022-03-07,995138,49,Active
+115,Ishaan Nair,IT,Associate,2025-06-13,1151122,41,Inactive
+116,Ishaan Kumar,Supply Chain,Analyst,2020-10-07,792166,34,Active
+117,Aisha Verma,Finance,Lead,2020-09-26,1148762,64,Active
+118,Aisha Joshi,HR,Executive,2023-04-15,579021,1,Inactive
+119,Nikhil Singh,Supply Chain,Analyst,2023-11-25,722476,39,Inactive
+120,Priya Verma,Marketing,Analyst,2019-04-27,616879,59,ACTIVE
+121,Ishaan Reddy,Finance,Analyst,2022-03-02,925085,41,ACTIVE
+122,Ananya Kumar,HR,Analyst,2020-04-30,339849,68,ACTIVE
+123,Neha Patel,Sales,Analyst,2022-01-23,1190518,52,Active
+124,Rahul Kumar,Sales,Analyst,2022-01-29,637781,19,Inactive
+125,Priya Patel,Finance,Manager,2020-08-21,687743,25,Active
+126,Priya Gupta,Supply Chain,Associate,2019-10-22,850149,49,Inactive
+127,Ishaan Patel,Operations,Lead,2021-08-21,933150,32,Active
+128,Ishaan Patel,Sales,Lead,2022-07-28,430895,7,Active
+129,Rohan Rao,HR,Executive,2024-12-11,1072519,23,Inactive
+130,Kiran Reddy,Sales,Lead,2019-04-01,710598,67,Inactive
+131,Aarav Sharma,Finance,Manager,2024-08-03,1199422,55,Active
+132,Ananya Gupta,Operations,Associate,2019-07-18,1106764,25,Inactive
+133,Ananya Reddy,Operations,Executive,2022-03-23,600745,44,Active
+134,Vikram Verma,Sales,Lead,2025-03-24,734567,2,Inactive
+135,Aditya Kumar,IT,Manager,2019-10-28,1085791,7,Inactive
+136,Diya Kumar,Operations,Lead,2020-05-22,879466,62,Inactive
+137,Rohan Verma,HR,Lead,2021-08-09,616389,34,Active
+138,Arjun Gupta,Marketing,Manager,2023-10-24,897187,32,Active
+139,Meera Joshi,Sales,Analyst,2020-12-25,824877,43,Inactive
+140,Priya Kumar,Sales,Lead,2023-08-07,346982,28,Active
+141,Aarav Sharma,Finance,Associate,2023-06-07,852783,56,Active
+142,Neha Patel,HR,Lead,2020-04-07,843794,42,Inactive
+143,Nikhil Singh,Sales,Analyst,2019-08-18,546498,54,Active
+144,Vikram Singh,HR,Analyst,2024-10-09,693415,56,Active
+145,Rahul Joshi,HR,Manager,2022-05-22,464531,42,Inactive
+146,Sai Joshi,Marketing,Analyst,2019-01-13,860559,24,Active
+147,Ananya Singh,Marketing,Analyst,2020-07-09,1196090,32,Active
+148,Aisha Verma,Marketing,Executive,2020-08-05,250556,41,Active
+149,Arjun Singh,Marketing,Lead,2025-02-12,509213,54,Active
+150,Vikram Sharma,Sales,Manager,2025-11-03,290022,10,Inactive
+151,Ishaan Reddy,Marketing,Lead,2020-02-18,1065295,50,Inactive
+152,Aisha Patel,Marketing,Analyst,2025-04-25,517003,62,Active
+153,Vikram Singh,Sales,Associate,2025-10-18,804576,76,Active
+154,Riya Sharma,Sales,Lead,2023-10-26,618216,43,Inactive
+155,Aisha Reddy,IT,Manager,2024-09-29,817226,46,Inactive
+156,Neha Joshi,Supply Chain,Manager,2024-11-07,1117679,65,Inactive
+157,Aditya Kumar,IT,Analyst,2020-09-14,253139,12,Active
+158,Nikhil Sharma,Supply Chain,Manager,2022-12-22,480155,69,Inactive
+159,Ishaan Reddy,Marketing,Executive,2022-07-24,1154602,44,Inactive
+160,Kiran Sharma,IT,Executive,2025-09-06,647343,77,Active
+161,Sai Rao,Marketing,Associate,2023-08-31,1075661,32,Inactive
+162,Aarav Kumar,Finance,Associate,2023-07-02,361175,66,Active
+163,Ananya Rao,HR,Lead,2021-06-21,1030337,40,Active
+164,Neha Reddy,Finance,Analyst,2024-06-09,1042181,2,Inactive
+165,Vivaan Nair,IT,Analyst,2019-08-23,395624,16,Active
+166,Arjun Reddy,IT,Executive,2020-04-24,1166705,79,Inactive
+167,Kavya Reddy,HR,Executive,2019-03-05,633744,67,Active
+168,Aditya Singh,Operations,Analyst,2025-08-31,270953,50,Inactive
+169,Vivaan Patel,IT,Manager,2024-03-07,392161,64,Inactive
+170,Aisha Patel,IT,Manager,2021-09-15,1194540,50,Inactive
+171,Diya Verma,Supply Chain,Executive,2019-01-04,747174,64,Inactive
+172,Aarav Joshi,Operations,Executive,2021-03-11,749034,68,Active
+173,Aditya Rao,Supply Chain,Associate,2021-11-18,505255,4,Inactive
+174,Priya Reddy,Finance,Associate,2021-05-13,726985,15,Inactive
+175,Meera Sharma,Finance,Lead,2020-06-15,658716,75,Active
+176,Vivaan Verma,IT,Executive,2021-05-27,1174316,38,Inactive
+177,Aisha Sharma,Sales,Manager,2019-05-10,805804,37,Active
+178,Aarav Rao,IT,Associate,2024-12-30,296560,5,Inactive
+179,Sai Sharma,IT,Manager,2021-08-02,690117,15,Active
+180,Diya Joshi,Finance,Associate,2020-06-15,604173,72,Active
+181,Ananya Sharma,Sales,Manager,2021-08-13,861758,8,Active
+182,Rahul Gupta,IT,Associate,2023-04-09,1182617,36,Active
+183,Aditya Gupta,Finance,Executive,2020-04-11,505923,72,Active
+184,Vivaan Patel,Finance,Manager,2024-10-22,870096,36,Inactive
+185,Meera Gupta,IT,Executive,2024-09-22,972840,23,Inactive
+186,Aditya Singh,Sales,Lead,2021-10-24,812245,31,Active
+187,Neha Sharma,Supply Chain,Executive,2021-12-08,1198216,2,Inactive
+188,Diya Joshi,IT,Lead,2021-06-14,-450000,64,Active
+189,Neha Reddy,Operations,Associate,2022-01-06,699599,65,Inactive
+190,Meera Nair,Supply Chain,Associate,2019-11-04,896254,11,Active
+191,Rahul Patel,Marketing,Executive,2020-09-03,504318,38,Inactive
+192,Sai Verma,HR,Manager,2023-06-13,376416,61,Active
+193,Arjun Reddy,HR,Manager,2024-06-04,1179210,25,Inactive
+194,Rohan Kumar,Finance,Executive,2024-11-27,591886,20,Inactive
+195,Rohan Nair,Sales,Analyst,2022-12-07,913620,41,Active
+196,Ananya Joshi,IT,Manager,2024-02-07,451892,12,Inactive
+197,Rahul Singh,IT,Manager,2021-10-22,554050,71,Inactive
+198,Riya Gupta,Marketing,Analyst,2025-03-05,716675,62,Active
+199,Kiran Singh,HR,Lead,2021-02-28,1011628,66,Active
+200,Aisha Kumar,HR,Executive,2025-08-28,862026,23,Inactive
+201,Meera Nair,Supply Chain,Associate,2021-11-02,373074,15,Active
+202,Nikhil Verma,Finance,Associate,2023-10-10,435306,62,Active
+203,Riya Sharma,Marketing,Manager,2025-05-24,1072902,50,Inactive
+204,Meera Rao,Sales,Manager,2020-04-11,1191056,49,Inactive
+205,Priya Singh,Supply Chain,Manager,2025-03-17,786399,5,Inactive
+206,Aditya Verma,IT,Analyst,2024-08-12,656135,31,Inactive
+207,Rohan Patel,IT,Lead,2022-08-06,681192,75,Inactive
+208,Nikhil Rao,HR,Executive,2019-04-21,418761,3,Active
+209,Diya Rao,Supply Chain,Lead,2025-11-05,826893,7,Active
+210,Aarav Sharma,Supply Chain,Lead,2020-09-18,973016,55,Inactive
+211,Arjun Singh,Finance,Manager,2023-05-22,614947,43,Active
+212,Meera Joshi,Sales,Analyst,2019-08-22,1050701,56,Active
+213,Riya Sharma,Finance,Associate,2025-01-15,398307,39,Active
+214,Rahul Verma,IT,Manager,2025-07-04,1052230,26,Inactive
+215,Arjun Singh,Marketing,Executive,2023-05-28,712030,33,Active
+216,Meera Singh,Supply Chain,Lead,2025-05-28,1086773,80,Inactive
+217,Nikhil Gupta,HR,Executive,2019-06-05,370870,6,Inactive
+218,Arjun Gupta,HR,Manager,2021-02-12,926573,70,Inactive
+219,Ishaan Verma,Operations,Lead,2022-08-07,701094,60,Inactive
+220,Riya Rao,Sales,Manager,2023-01-29,438954,26,Active
+221,Aditya Gupta,Marketing,Executive,2025-09-26,1070088,31,Inactive
+222,Kiran Gupta,Sales,Manager,2021-07-20,446602,56,Active
+223,Rahul Singh,Finance,Associate,2023-07-09,710803,1,Active
+224,Meera Reddy,Finance,Associate,2025-09-30,935618,18,Inactive
+225,Riya Joshi,Operations,Manager,2025-04-20,348843,49,Inactive
+226,Vivaan Rao,IT,Executive,2022-01-30,702246,19,Inactive
+227,Rahul Nair,Marketing,Executive,2020-06-08,619034,43,Active
+228,Rohan Nair,Finance,Manager,2020-09-15,1033168,64,Active
+229,Aditya Joshi,Sales,Executive,2024-12-25,641468,10,Inactive
+230,Rohan Sharma,Operations,Associate,2024-01-22,341503,79,Active
+231,Rahul Rao,Sales,Associate,2022-01-14,601699,38,Active
+232,Ananya Kumar,Finance,Executive,2022-01-11,1160937,11,Active
+233,Ishaan Joshi,HR,Analyst,2021-01-09,493055,34,Inactive
+234,Meera Nair,Supply Chain,Manager,2025-10-07,303649,36,Active
+235,Ishaan Joshi,Sales,Analyst,2020-10-11,816217,69,Active
+236,Ananya Nair,HR,Lead,2020-02-19,599476,11,Active
+237,Aditya Singh,Marketing,Associate,2019-06-19,450792,12,Active
+238,Kiran Reddy,IT,Executive,2022-08-27,722840,3,Inactive
+239,Rahul Sharma,Marketing,Associate,2025-06-07,489088,79,Inactive
+240,Aditya Joshi,IT,Executive,2025-04-22,255783,59,Inactive
+241,Vikram Reddy,Marketing,Associate,2025-01-01,851772,38,Inactive
+242,Meera Joshi,HR,Executive,2023-09-11,620910,65,Active
+243,Sai Verma,HR,Executive,2021-10-23,670310,3,Active
+244,Aditya Sharma,Finance,Lead,2025-07-21,1140548,70,Inactive
+245,Meera Gupta,Sales,Associate,2023-02-02,937179,48,Inactive
+246,Vivaan Singh,HR,Associate,2023-05-23,999066,24,Active
+247,Kavya Reddy,Operations,Manager,2022-01-28,826008,6,Active
+248,Aarav Nair,IT,Analyst,2021-03-19,819900,77,Active
+249,Meera Sharma,Finance,Executive,2022-09-21,1060465,2,Active
+250,Ishaan Sharma,Operations,Manager,2028-01-01,279159,40,Active
+251,Sneha Singh,Operations,Lead,2022-09-21,1074723,75,Active
+252,Diya Singh,HR,Analyst,2024-12-19,739884,31,Inactive
+253,Nikhil Gupta,IT,Manager,2019-12-20,515175,77,Inactive
+254,Rahul Kumar,Operations,Manager,2019-11-21,348487,37,Inactive
+255,Aarav Joshi,Finance,Executive,2020-04-13,736365,35,Active
+256,Rahul Verma,Finance,Associate,2020-05-17,897137,72,Inactive
+257,Diya Sharma,Finance,Associate,2024-09-16,673087,23,Active
+258,Neha Joshi,Finance,Executive,2019-04-26,1198676,31,Inactive
+259,Ishaan Singh,Finance,Manager,2022-01-26,1138021,77,Active
+260,Aarav Rao,IT,Associate,2020-05-16,596835,65,Active
+261,Sai Joshi,Supply Chain,Lead,2024-10-01,659204,57,Active
+262,Ananya Kumar,IT,Analyst,2025-06-02,378378,54,Inactive
+263,Aditya Joshi,IT,Executive,2025-04-12,806660,20,Inactive
+264,Aditya Singh,Marketing,Analyst,2022-05-31,1148768,25,Inactive
+265,Vivaan Verma,IT,Associate,2020-07-21,980972,42,Inactive
+266,Rohan Rao,Sales,Associate,2025-07-22,1027766,53,Active
+267,Nikhil Nair,Sales,Executive,2022-12-03,384880,31,Active
+268,Sneha Patel,Operations,Manager,2021-10-26,983125,29,Active
+269,Neha Singh,IT,Associate,2019-05-28,1002870,38,Active
+270,Sneha Rao,IT,Associate,2024-11-21,861561,14,Active
+271,Kavya Singh,Marketing,Manager,2023-04-29,1036767,73,Active
+272,Riya Rao,Marketing,Manager,2024-01-27,551732,56,Active
+273,Neha Sharma,Marketing,Associate,2025-08-25,775703,2,Active
+274,Vikram Reddy,Finance,Associate,2022-03-13,512948,12,Inactive
+275,Priya Nair,Supply Chain,Lead,2023-03-15,728210,16,Active
+276,Kavya Nair,HR,Lead,2020-08-14,640032,30,Active
+277,Vikram Gupta,IT,Lead,2020-03-21,844131,52,Active
+278,Diya Nair,Sales,Associate,2019-12-15,1066685,49,Active
+279,Diya Gupta,Supply Chain,Associate,2023-11-21,323181,10,Inactive
+280,Rohan Singh,Supply Chain,Analyst,2021-07-19,844262,61,Active
+281,Sneha Rao,Operations,Manager,2023-08-08,1139129,34,Inactive
+282,Arjun Sharma,Finance,Executive,2020-12-30,547550,31,Active
+283,Rahul Rao,Operations,Lead,2020-10-15,727435,65,Inactive
+284,Ishaan Rao,Finance,Executive,2025-02-11,692609,27,Active
+285,Priya Sharma,IT,Manager,2020-08-14,471328,46,Active
+286,Nikhil Kumar,HR,Analyst,2019-01-31,599296,22,Inactive
+287,Meera Joshi,Sales,Associate,2023-06-28,1037659,33,Inactive
+288,Neha Gupta,Finance,Associate,2024-06-21,282997,74,Active
+289,Vikram Reddy,Marketing,Analyst,2019-07-22,961688,53,Inactive
+290,Sneha Kumar,IT,Executive,2023-06-15,253903,11,Inactive
+291,Rahul Rao,Sales,Lead,2022-10-20,303567,31,Active
+292,Rahul Nair,Finance,Lead,2025-05-31,916539,55,Active
+293,Vikram Nair,HR,Analyst,2024-06-28,717917,3,Inactive
+294,Nikhil Reddy,IT,Manager,2019-04-06,1088614,67,Inactive
+295,Vikram Patel,Marketing,Executive,2025-07-04,1073002,22,Active
+296,Ananya Gupta,Finance,Manager,2020-08-17,504347,54,Inactive
+297,Sai Gupta,HR,Manager,2019-09-18,375811,42,Active
+298,Ananya Nair,Sales,Lead,2020-04-18,274589,22,Inactive
+299,Ananya Patel,Supply Chain,Analyst,2019-09-27,595965,30,Active
+300,Kiran Nair,Operations,Associate,2028-01-01,865451,12,Active
+301,Kiran Sharma,Marketing,Manager,2025-04-06,1136262,6,Inactive
+302,Aditya Gupta,HR,Associate,2025-10-02,1045311,53,Inactive
+303,Neha Singh,HR,Lead,2024-08-18,369526,49,Active
+304,Neha Kumar,Sales,Executive,2020-02-12,258915,46,Inactive
+305,Aisha Sharma,IT,Manager,2022-12-11,805331,68,Inactive
+306,Riya Rao,Sales,Analyst,2023-05-05,425250,79,Inactive
+307,Nikhil Verma,Operations,Associate,2024-02-13,921113,4,Inactive
+308,Arjun Nair,Supply Chain,Manager,2025-05-19,528481,64,Active
+309,Meera Patel,Marketing,Executive,2020-11-29,883318,69,Active
+310,Ananya Patel,Sales,Executive,2020-04-02,770799,37,Active
+311,Priya Sharma,Marketing,Lead,2022-10-01,626007,30,Inactive
+312,Neha Nair,Finance,Associate,2019-06-19,421787,31,Active
+313,Vivaan Gupta,Operations,Analyst,2023-05-19,321335,59,Active
+314,Nikhil Rao,IT,Associate,2019-03-13,484400,10,Active
+315,Diya Patel,IT,Manager,2020-09-07,1181530,8,Active
+316,Rohan Rao,Supply Chain,Lead,2020-01-17,873998,43,Inactive
+317,Rahul Gupta,IT,Executive,2022-10-14,1050134,66,Active
+318,Nikhil Rao,HR,Executive,2020-05-03,860986,29,Active
+319,Priya Kumar,Supply Chain,Executive,2023-10-20,331037,50,Active
+320,Kiran Patel,Supply Chain,Associate,2021-02-26,480074,79,Inactive
+321,Sneha Kumar,Operations,Lead,2025-04-07,1026580,31,Inactive
+322,Ishaan Nair,Sales,Manager,2025-07-29,986935,4,Inactive
+323,Aisha Sharma,Supply Chain,Lead,2020-04-15,1033972,13,Inactive
+324,Aarav Reddy,HR,Analyst,2022-10-14,502586,19,Inactive
+325,Arjun Singh,Supply Chain,Associate,2024-12-04,696604,69,Inactive
+326,Nikhil Joshi,IT,Manager,2025-05-29,749076,28,Inactive
+327,Priya Verma,Supply Chain,Manager,2022-06-26,424728,36,Active
+328,Sai Gupta,Marketing,Executive,2020-10-17,1122890,72,Active
+329,Aditya Gupta,Sales,Lead,2019-04-15,473004,43,Active
+330,Diya Singh,HR,Executive,2023-05-07,946676,65,Inactive
+331,Meera Nair,Operations,Analyst,2023-11-04,543550,25,Inactive
+332,Nikhil Rao,Sales,Associate,2019-12-26,1037266,36,Inactive
+333,Priya Kumar,Supply Chain,Executive,2019-05-03,1049174,6,Inactive
+334,Arjun Rao,HR,Analyst,2024-07-02,398381,52,Inactive
+335,Rahul Reddy,IT,Manager,2025-11-01,731909,76,Inactive
+336,Ishaan Rao,IT,Analyst,2020-10-31,827579,38,Inactive
+337,Neha Sharma,IT,Associate,2023-08-09,293565,27,Inactive
+338,Sai Rao,Operations,Associate,2024-01-24,1058184,34,Active
+339,Vikram Reddy,Finance,Lead,2020-11-16,788377,48,Inactive
+340,Nikhil Joshi,Operations,Lead,2020-06-05,720008,8,Active
+341,Neha Patel,IT,Manager,2021-11-20,673736,25,Inactive
+342,Aarav Singh,Operations,Lead,2022-05-16,300303,10,Inactive
+343,Diya Gupta,Sales,Associate,2024-12-15,731479,7,Active
+344,Aditya Nair,Sales,Associate,2023-10-09,913998,2,Inactive
+345,Vivaan Gupta,IT,Manager,2025-06-06,1032415,80,Inactive
+346,Meera Gupta,Supply Chain,Manager,2023-10-20,946214,17,Active
+347,Aisha Nair,Supply Chain,Associate,2019-01-25,413415,16,Inactive
+348,Diya Nair,IT,Lead,2021-12-05,828216,76,Inactive
+349,Kavya Gupta,Supply Chain,Executive,2025-02-08,555501,43,Active
+350,Rohan Gupta,HR,Lead,2025-10-05,799787,41,Active
+351,Priya Rao,Sales,Manager,2023-12-22,305014,1,Inactive
+352,Aarav Rao,Supply Chain,Analyst,2024-02-12,809203,30,Active
+353,Aisha Singh,Finance,Analyst,2020-12-16,1184962,73,Inactive
+354,Vikram Reddy,Sales,Analyst,2019-03-29,369153,28,Inactive
+355,Nikhil Joshi,HR,Manager,2019-02-05,1193085,8,Inactive
+356,Sneha Kumar,Marketing,Analyst,2019-03-19,707708,75,Active
+357,Vikram Sharma,Marketing,Executive,2022-02-06,911470,44,Inactive
+358,Aisha Nair,Operations,Manager,2024-06-05,306784,32,Active
+359,Diya Nair,Operations,Manager,2019-01-30,1061540,55,Active
+360,Kiran Patel,HR,Lead,2022-06-14,523980,50,Active
+361,Nikhil Rao,Supply Chain,Executive,2022-05-21,468738,66,Inactive
+362,Priya Gupta,IT,Associate,2025-09-11,1185090,26,Active
+363,Kavya Rao,Marketing,Analyst,2022-03-22,427899,46,Active
+364,Aditya Verma,Finance,Analyst,2024-09-27,900970,49,Inactive
+365,Sai Gupta,Sales,Manager,2022-12-27,1134590,21,Active
+366,Neha Reddy,Marketing,Manager,2020-07-07,411709,44,Inactive
+367,Aarav Verma,Operations,Associate,2023-01-15,590328,15,Inactive
+368,Vikram Joshi,IT,Manager,2025-10-25,839289,2,Inactive
+369,Aditya Verma,Sales,Executive,2020-04-21,795346,3,Inactive
+370,Rohan Singh,Finance,Executive,2022-09-05,978561,52,Inactive
+371,Neha Kumar,Sales,Manager,2024-01-09,1129676,15,Inactive
+372,Sneha Kumar,Operations,Executive,2019-09-30,692438,9,Active
+373,Priya Kumar,Marketing,Manager,2022-02-24,388364,57,Active
+374,Meera Reddy,Supply Chain,Lead,2023-01-03,816546,65,Inactive
+375,Aditya Patel,HR,Lead,2019-02-07,343523,37,Inactive
+376,Vivaan Sharma,Sales,Analyst,2023-07-19,276602,18,Inactive
+377,Ananya Rao,Marketing,Manager,2025-02-24,803169,2,Active
+378,Priya Reddy,Sales,Lead,2023-09-21,787895,11,Inactive
+379,Aisha Reddy,Supply Chain,Lead,2025-07-18,540671,6,Inactive
+380,Vikram Singh,Finance,Analyst,2020-02-08,621501,69,Inactive
+381,Neha Gupta,Finance,Associate,2023-07-28,492249,16,Inactive
+382,Aisha Rao,Operations,Associate,2023-03-29,674108,68,Inactive
+383,Vikram Verma,Sales,Manager,2024-12-31,315253,8,Active
+384,Neha Singh,Supply Chain,Lead,2021-03-06,1117132,30,Inactive
+385,Sai Rao,Sales,Executive,2023-01-28,958274,40,Active
+386,Aditya Gupta,Marketing,Lead,2023-05-13,498414,23,Inactive
+387,Meera Rao,HR,Lead,2022-10-03,794374,21,Inactive
+388,Rohan Verma,Sales,Lead,2025-04-26,941800,7,Inactive
+389,Ishaan Sharma,Operations,Lead,2025-11-05,502196,7,Active
+390,Aarav Joshi,Sales,Manager,2022-01-26,505294,36,Inactive
+391,Sneha Nair,Marketing,Executive,2020-09-03,1078736,54,Active
+392,Diya Reddy,Sales,Associate,2021-01-23,433320,2,Active
+393,Arjun Joshi,Marketing,Analyst,2020-07-05,824033,59,Inactive
+394,Aditya Rao,HR,Executive,2022-02-22,731156,46,Inactive
+395,Sneha Patel,Finance,Analyst,2023-07-30,517253,66,Inactive
+396,Ananya Reddy,Finance,Associate,2025-05-01,924460,18,Active
+397,Diya Reddy,Operations,Executive,2020-02-26,531687,52,Inactive
+398,Ishaan Kumar,Supply Chain,Manager,2024-05-08,1068454,75,Active
+399,Priya Gupta,Finance,Analyst,2020-09-15,967726,60,Active
+400,Diya Sharma,Marketing,Lead,2021-10-15,615910,78,Active
+401,Priya Joshi,Marketing,Lead,2020-12-16,1124722,29,Inactive
+402,Sai Gupta,Finance,Lead,2023-10-30,874399,61,Active
+403,Sai Nair,Sales,Associate,2023-01-17,642547,39,Active
+404,Aisha Singh,HR,Manager,2021-05-28,488796,7,Active
+405,Priya Joshi,IT,Associate,2021-12-12,679138,73,Inactive
+406,Neha Nair,IT,Executive,2019-07-06,816126,64,Active
+407,Nikhil Singh,Finance,Executive,2023-12-09,613909,10,Active
+408,Rohan Nair,IT,Manager,2019-08-02,620475,20,Active
+409,Riya Verma,Supply Chain,Executive,2025-09-15,576544,17,Active
+410,Sneha Singh,Finance,Lead,2022-12-23,1187258,66,Active
+411,Meera Patel,Supply Chain,Manager,2019-05-21,408289,43,Active
+412,Priya Nair,Supply Chain,Associate,2021-01-31,651504,80,Inactive
+413,Sneha Joshi,Finance,Executive,2020-01-18,709988,54,Active
+414,Sneha Patel,HR,Manager,2025-09-23,869823,30,Active
+415,Ishaan Nair,HR,Associate,2020-06-09,619610,72,Inactive
+416,Aditya Singh,Supply Chain,Lead,2022-10-13,684246,63,Inactive
+417,Diya Patel,HR,Lead,2021-03-14,993595,77,Active
+418,Riya Patel,Operations,Executive,2025-03-18,1130935,28,Inactive
+419,Ishaan Singh,Supply Chain,Associate,2019-08-20,794866,41,Active
+420,Meera Singh,Sales,Manager,2023-05-26,510550,40,Active
+421,Rohan Singh,Sales,Associate,2022-06-30,1020079,35,Inactive
+422,Meera Reddy,Supply Chain,Manager,2024-09-23,543775,21,Active
+423,Rohan Joshi,Supply Chain,Executive,2025-09-23,1197405,59,Inactive
+424,Aisha Gupta,Sales,Analyst,2024-07-13,471051,63,Active
+425,Sneha Singh,Operations,Manager,2022-01-21,304765,43,Active
+426,Neha Reddy,IT,Associate,2025-05-25,1179295,15,Inactive
+427,Riya Joshi,Finance,Manager,2023-03-29,1046042,31,Active
+428,Arjun Rao,Sales,Executive,2019-04-04,928047,11,Inactive
+429,Sneha Verma,Finance,Associate,2019-01-23,933789,16,Inactive
+430,Nikhil Singh,Marketing,Associate,2023-03-07,738624,42,Active
+431,Ishaan Reddy,Sales,Analyst,2020-11-13,854710,72,Inactive
+432,Riya Nair,Finance,Manager,2023-05-21,372595,4,Active
+433,Meera Nair,Supply Chain,Manager,2020-04-22,744068,50,Inactive
+434,Aditya Gupta,Finance,Analyst,2020-03-10,1161898,79,Inactive
+435,Diya Sharma,Sales,Associate,2023-09-14,303632,79,Inactive
+436,Vikram Patel,Marketing,Analyst,2019-12-20,277765,61,Active
+437,Riya Joshi,IT,Executive,2021-08-06,603568,17,Active
+438,Vivaan Reddy,IT,Associate,2022-05-02,588812,63,Active
+439,Ananya Nair,Finance,Lead,2022-01-17,1149323,39,Active
+440,Priya Rao,Operations,Executive,2023-11-14,291461,66,Inactive
+441,Ishaan Verma,Sales,Executive,2025-06-09,867448,31,Active
+442,Sneha Reddy,Sales,Executive,2020-08-09,1004266,6,Inactive
+443,Priya Patel,Finance,Lead,2020-11-03,805621,2,Inactive
+444,Priya Joshi,Operations,Analyst,2023-12-19,1002108,7,Active
+445,Rahul Patel,Sales,Analyst,2020-10-24,695341,15,Inactive
+446,Vikram Patel,Marketing,Manager,2025-10-27,865590,19,Active
+447,Aditya Gupta,Sales,Executive,2019-11-26,392634,10,Active
+448,Arjun Kumar,Sales,Associate,2021-01-08,1146485,18,Inactive
+449,Aisha Reddy,IT,Analyst,2019-04-04,557425,15,Inactive
+450,Ananya Rao,Marketing,Associate,2021-02-11,304461,16,Active
+451,Ananya Singh,Sales,Executive,2020-01-24,922006,17,Active
+452,Meera Patel,Supply Chain,Executive,2021-11-10,916453,54,Active
+453,Kiran Kumar,Supply Chain,Associate,2022-12-03,1109225,72,Inactive
+454,Rohan Kumar,IT,Analyst,2020-05-13,1155548,22,Active
+455,Sneha Sharma,Marketing,Analyst,2025-07-16,430938,45,Active
+456,Riya Rao,IT,Analyst,2022-10-20,583200,55,Inactive
+457,Kiran Verma,HR,Lead,2025-09-01,354610,53,Active
+458,Vivaan Patel,Marketing,Manager,2022-09-18,501564,60,Inactive
+459,Priya Kumar,Finance,Lead,2025-08-02,489386,46,Active
+460,Sneha Gupta,Supply Chain,Analyst,2020-08-29,1179600,48,Active
+461,Arjun Patel,Supply Chain,Lead,2022-11-22,314843,72,Inactive
+462,Kavya Verma,Sales,Manager,2021-11-22,1120196,14,Inactive
+463,Vivaan Gupta,Sales,Associate,2020-06-06,980075,75,Inactive
+464,Sai Nair,Supply Chain,Associate,2022-12-30,800598,62,Active
+465,Nikhil Reddy,IT,Analyst,2020-08-05,834082,59,Active
+466,Ananya Patel,Supply Chain,Executive,2019-01-25,606880,42,Active
+467,Kiran Rao,Finance,Lead,2023-06-07,887415,30,Active
+468,Aditya Reddy,Supply Chain,Lead,2025-01-05,485484,37,Active
+469,Rohan Patel,Finance,Manager,2022-02-06,355070,48,Inactive
+470,Arjun Singh,Sales,Analyst,2023-07-09,372288,59,Inactive
+471,Riya Kumar,Sales,Associate,2022-02-21,404658,35,Active
+472,Neha Nair,Marketing,Analyst,2023-12-04,288990,47,Inactive
+473,Priya Rao,Marketing,Associate,2025-01-19,607034,50,Inactive
+474,Neha Kumar,Marketing,Lead,2021-11-06,1157835,71,Inactive
+475,Vikram Rao,HR,Analyst,2025-10-06,1182839,34,Inactive
+476,Vikram Patel,HR,Associate,2025-03-17,554046,59,Inactive
+477,Riya Gupta,Marketing,Lead,2022-06-19,1089019,21,Inactive
+478,Aarav Singh,Supply Chain,Associate,2025-01-19,831249,27,Active
+479,Priya Joshi,Supply Chain,Manager,2022-06-10,388848,2,Inactive
+480,Aditya Joshi,Operations,Manager,2022-08-30,341412,75,Active
+481,Aarav Gupta,Marketing,Manager,2024-11-09,458731,27,Active
+482,Aisha Patel,Sales,Associate,2025-05-19,1026780,57,Inactive
+483,Rohan Gupta,HR,Lead,2022-03-25,1170218,28,Active
+484,Vivaan Joshi,HR,Executive,2021-12-23,747648,61,Active
+485,Ishaan Gupta,Sales,Lead,2024-01-25,1098821,44,Inactive
+486,Aisha Gupta,Supply Chain,Manager,2022-10-31,849282,27,Active
+487,Ishaan Rao,Finance,Executive,2025-02-28,589443,76,Active
+488,Aarav Verma,HR,Associate,2024-04-05,1146490,75,Inactive
+489,Aisha Nair,HR,Executive,2025-05-29,290518,47,Active
+490,Sai Nair,Finance,Lead,2025-06-21,951918,33,Inactive
+491,Kiran Patel,IT,Lead,2021-04-24,440179,8,Inactive
+492,Neha Rao,Finance,Associate,2021-02-08,1004324,74,Active
+493,Ananya Reddy,Finance,Manager,2021-04-09,536332,31,Inactive
+494,Sneha Patel,Finance,Lead,2019-12-22,958200,69,Active
+495,Ananya Verma,Operations,Executive,2024-03-21,991117,45,Inactive
+496,Rahul Rao,Sales,Lead,2019-04-14,857763,58,Inactive
+497,Sneha Nair,Finance,Manager,2025-03-14,910957,73,Active
+498,Kiran Nair,Operations,Analyst,2019-05-12,405123,69,Inactive
+499,Vivaan Nair,IT,Executive,2024-06-12,668728,11,Active
+500,Ananya Singh,Operations,Lead,2025-05-19,909007,2,Active

@@ -1,0 +1,29 @@
+RegionID,RegionName,Zone
+1,Delhi NCR,North
+2,Punjab,North
+3,Haryana,North
+4,Himachal,North
+5,Jammu & Kashmir,North
+6,Uttarakhand,North
+7,Uttar Pradesh,North
+8,Andhra Pradesh,South
+9,Telangana,South
+10,Tamil Nadu,South
+11,Karnataka,South
+12,Kerala,South
+13,Puducherry,South
+14,Goa,South
+15,West Bengal,East
+16,Odisha,East
+17,Bihar,East
+18,Jharkhand,East
+19,Assam,East
+20,Sikkim,East
+21,Meghalaya,East
+22,Tripura,East
+23,Maharashtra,West
+24,Gujarat,West
+25,Rajasthan,West
+26,Madhya Pradesh,West
+27,Chhattisgarh,West
+28,Dadra & Nagar Haveli,West

@@ -1,0 +1,151 @@
+PromotionID,CampaignName,DiscountPercent,StartDate,EndDate,PromotionType
+1,Summer Campaign 1,5,2024-10-16,2024-10-30,Flat
+2,Monsoon Campaign 2,10,2023-08-17,2023-09-01,Percentage
+3,Mega Campaign 3,5,2024-08-27,2024-09-30,Percentage
+4,Monsoon Campaign 4,5,2023-08-12,2023-09-02,Flat
+5,Weekend Campaign 5,40,2025-01-03,2025-02-13,Cashback
+6,Flash Campaign 6,5,2024-08-26,2024-09-19,Cashback
+7,Weekend Campaign 7,15,2023-12-15,2024-01-08,BOGO
+8,Festive Campaign 8,40,2023-04-15,2023-04-27,BOGO
+9,Mega Campaign 9,25,2025-05-17,2025-06-15,Cashback
+10,Festive Campaign 10,40,2024-07-03,2024-07-17,Free Shipping
+11,Festive Campaign 11,95,2023-10-28,2023-11-27,Percentage
+12,Festive Campaign 12,25,2024-11-08,2024-11-29,Flat
+13,Summer Campaign 13,40,2025-06-06,2025-06-19,Cashback
+14,Winter Campaign 14,15,2024-10-12,2024-11-11,BOGO
+15,Premium Campaign 15,10,2023-08-03,2023-08-27,Flat
+16,Clearance Campaign 16,15,2024-06-30,2024-07-22,Cashback
+17,Winter Campaign 17,20,2023-10-04,2023-11-15,Percentage
+18,New Year Campaign 18,30,2023-08-23,2023-09-01,BOGO
+19,Weekend Campaign 19,30,2023-03-09,2023-03-29,Cashback
+20,Summer Campaign 20,15,2024-02-10,2024-03-17,Flat
+21,Premium Campaign 21,25,2023-09-10,2023-10-22,Cashback
+22,Winter Campaign 22,40,2025-07-08,2025-08-21,Flat
+23,Festive Campaign 23,50,2023-05-22,2023-06-30,Percentage
+24,Flash Campaign 24,15,2025-05-31,2025-06-14,Cashback
+25,New Year Campaign 25,40,2024-09-02,2024-08-28,Free Shipping
+26,Monsoon Campaign 26,25,2024-04-24,2024-06-03,Percentage
+27,Winter Campaign 27,25,2024-11-27,2024-12-11,Percentage
+28,Clearance Campaign 28,15,2023-10-28,2023-12-01,Percentage
+29,Monsoon Campaign 29,15,2025-09-03,2025-09-26,Percentage
+30,Flash Campaign 30,20,2025-06-10,2025-07-06,BOGO
+31,Premium Campaign 31,5,2025-02-19,2025-03-08,BOGO
+32,Winter Campaign 32,10,2024-05-15,2024-05-23,BOGO
+33,Premium Campaign 33,20,2023-09-03,2023-09-13,Percentage
+34,Monsoon Campaign 34,10,2023-03-29,2023-05-06,Flat
+35,Summer Campaign 35,15,2023-05-12,2023-06-18,Free Shipping
+36,Weekend Campaign 36,40,2025-06-12,2025-07-27,Free Shipping
+37,New Year Campaign 37,25,2025-02-12,2025-03-03,BOGO
+38,Festive Campaign 38,50,2024-03-24,2024-05-03,Flat
+39,Mega Campaign 39,95,2023-08-19,2023-08-30,Free Shipping
+40,Mega Campaign 40,20,2024-07-21,2024-08-11,Percentage
+41,Festive Campaign 41,20,2024-12-25,2025-01-04,Percentage
+42,Monsoon Campaign 42,10,2025-05-30,2025-06-27,Flat
+43,Monsoon Campaign 43,20,2023-10-13,2023-11-20,Flat
+44,Weekend Campaign 44,50,2025-01-10,2025-02-22,Cashback
+45,Festive Campaign 45,20,2025-04-06,2025-05-09,Percentage
+46,New Year Campaign 46,30,2024-11-05,2024-12-09,Cashback
+47,Mega Campaign 47,10,2024-04-23,2024-05-03,Cashback
+48,Weekend Campaign 48,10,2025-01-15,2025-02-12,Flat
+49,Flash Campaign 49,50,2023-07-14,2023-08-24,Cashback
+50,Weekend Campaign 50,50,2023-07-07,2023-07-31,Percentage
+51,Mega Campaign 51,10,2024-03-29,2024-05-10,Free Shipping
+52,Weekend Campaign 52,10,2025-05-06,2025-05-13,Flat
+53,Weekend Campaign 53,50,2024-02-21,2024-03-30,Cashback
+54,New Year Campaign 54,15,2025-07-13,2025-07-23,Percentage
+55,Mega Festival Sale,50,2024-02-04,2024-02-27,BOGO
+56,Mega Festival Sale,50,2024-03-09,2024-04-20,Flat
+57,Mega Campaign 57,20,2023-07-14,2023-08-08,Free Shipping
+58,Winter Campaign 58,5,2025-01-23,2025-03-05,Percentage
+59,Monsoon Campaign 59,50,2023-02-21,2023-04-06,Free Shipping
+60,Flash Campaign 60,10,2023-06-11,2023-06-21,Percentage
+61,New Year Campaign 61,20,2024-09-01,2024-09-12,Percentage
+62,Premium Campaign 62,20,2025-08-22,2025-10-04,Free Shipping
+63,Premium Campaign 63,40,2023-02-10,2023-02-22,Free Shipping
+64,Weekend Campaign 64,25,2024-06-19,2024-07-16,BOGO
+65,Flash Campaign 65,40,2023-09-02,2023-09-25,BOGO
+66,Mega Campaign 66,10,2024-04-13,2024-05-10,Cashback
+67,Festive Campaign 67,10,2024-09-28,2024-11-10,Free Shipping
+68,Flash Campaign 68,25,2023-08-07,2023-09-15,BOGO
+69,Winter Campaign 69,20,2025-06-21,2025-07-02,BOGO
+70,Premium Campaign 70,25,2023-06-11,2023-06-06,Free Shipping
+71,Festive Campaign 71,25,2023-01-09,2023-02-20,Flat
+72,Monsoon Campaign 72,10,2023-09-28,2023-10-12,Flat
+73,Winter Campaign 73,20,2023-10-06,2023-10-31,Flat
+74,Summer Campaign 74,50,2024-12-04,2024-12-27,Percentage
+75,Mega Campaign 75,25,2023-04-05,2023-05-09,Percentage
+76,Flash Campaign 76,25,2023-12-08,2023-12-23,Cashback
+77,Festive Campaign 77,5,2024-07-18,2024-08-21,Percentage
+78,Winter Campaign 78,5,2025-08-25,2025-09-10,Free Shipping
+79,Flash Campaign 79,40,2024-07-19,2024-08-04,Percentage
+80,Winter Campaign 80,5,2023-11-12,2023-12-12,Flat
+81,Winter Campaign 81,10,2024-11-29,2024-12-21,Free Shipping
+82,Weekend Campaign 82,15,2025-06-24,2025-07-27,Flat
+83,Mega Campaign 83,40,2025-09-26,2025-10-14,Flat
+84,Weekend Campaign 84,40,2025-01-24,2025-02-21,BOGO
+85,Mega Campaign 85,40,2023-06-13,2023-06-26,Cashback
+86,Winter Campaign 86,50,2023-08-16,2023-09-04,BOGO
+87,Mega Campaign 87,95,2025-04-20,2025-05-11,Flat
+88,Festive Campaign 88,25,2024-02-13,2024-03-12,BOGO
+89,Monsoon Campaign 89,40,2023-12-26,2024-02-03,BOGO
+90,Summer Campaign 90,10,2025-08-19,2025-08-27,Flat
+91,Festive Campaign 91,5,2024-08-17,2024-09-09,Free Shipping
+92,New Year Campaign 92,30,2024-03-20,2024-04-18,Free Shipping
+93,Premium Campaign 93,40,2024-06-07,2024-06-21,Flat
+94,Mega Campaign 94,40,2023-09-18,2023-09-27,Free Shipping
+95,Winter Campaign 95,20,2025-08-05,2025-09-15,Cashback
+96,Festive Campaign 96,30,2023-03-13,2023-04-10,BOGO
+97,Winter Campaign 97,40,2024-06-03,2024-06-29,Cashback
+98,Weekend Campaign 98,15,2024-12-14,2025-01-08,Cashback
+99,Premium Campaign 99,15,2024-11-11,2024-12-12,Free Shipping
+100,Summer Campaign 100,5,2023-11-05,2023-12-07,BOGO
+101,Clearance Campaign 101,30,2023-08-04,2023-09-07,Cashback
+102,Flash Campaign 102,50,2024-03-28,2024-04-17,Percentage
+103,Festive Campaign 103,30,2023-10-18,2023-11-26,Flat
+104,Weekend Campaign 104,20,2024-11-19,2024-12-15,Flat
+105,Clearance Campaign 105,20,2023-01-26,2023-02-04,Free Shipping
+106,New Year Campaign 106,50,2025-05-20,2025-05-31,Free Shipping
+107,New Year Campaign 107,50,2023-07-19,2023-08-19,Flat
+108,New Year Campaign 108,10,2023-06-01,2023-06-08,Flat
+109,Mega Campaign 109,50,2023-06-30,2023-08-09,Free Shipping
+110,Flash Campaign 110,50,2023-09-13,2023-09-27,Cashback
+111,Clearance Campaign 111,30,2024-11-14,2024-12-24,Free Shipping
+112,Monsoon Campaign 112,40,2025-04-14,2025-05-23,Cashback
+113,Clearance Campaign 113,50,2025-07-07,2025-07-24,BOGO
+114,Monsoon Campaign 114,25,2025-02-08,2025-03-02,Cashback
+115,Clearance Campaign 115,25,2024-10-03,2024-10-25,Percentage
+116,Summer Campaign 116,20,2024-12-31,2025-01-25,BOGO
+117,Flash Campaign 117,10,2023-11-24,2024-01-04,Flat
+118,Weekend Campaign 118,15,2023-08-25,2023-09-25,Percentage
+119,Monsoon Campaign 119,30,2024-02-29,2024-04-02,Cashback
+120,New Year Campaign 120,20,2024-03-01,2024-03-11,Cashback
+121,Premium Campaign 121,5,2025-07-15,2025-08-28,Cashback
+122,Summer Campaign 122,30,2024-05-03,2024-05-10,Cashback
+123,Clearance Campaign 123,20,2025-05-23,2025-06-25,Flat
+124,Mega Campaign 124,50,2023-10-07,2023-11-10,Cashback
+125,Clearance Campaign 125,15,2023-12-11,2024-01-12,Flat
+126,New Year Campaign 126,5,2024-09-29,2024-11-09,Free Shipping
+127,New Year Campaign 127,10,2024-07-31,2024-08-08,Flat
+128,Mega Campaign 128,15,2025-06-06,2025-07-12,BOGO
+129,Clearance Campaign 129,20,2024-01-24,2024-02-20,BOGO
+130,New Year Campaign 130,25,2023-12-12,2024-01-12,BOGO
+131,Mega Campaign 131,50,2025-05-04,2025-05-16,Free Shipping
+132,Festive Campaign 132,20,2023-02-23,2023-03-24,Percentage
+133,Weekend Campaign 133,20,2025-02-11,2025-02-19,Percentage
+134,Flash Campaign 134,20,2024-09-28,2024-10-14,Cashback
+135,Clearance Campaign 135,20,2024-11-16,2024-11-30,BOGO
+136,Premium Campaign 136,15,2025-02-24,2025-03-26,Free Shipping
+137,Summer Campaign 137,15,2025-09-13,2025-09-27,Percentage
+138,Premium Campaign 138,25,2024-08-15,2024-08-23,Cashback
+139,Premium Campaign 139,10,2024-02-11,2024-03-01,Flat
+140,Premium Campaign 140,10,2023-04-15,2023-05-11,Percentage
+141,Winter Campaign 141,40,2023-12-22,2024-02-01,Percentage
+142,New Year Campaign 142,5,2024-06-02,2024-06-30,Cashback
+143,Clearance Campaign 143,30,2023-04-19,2023-05-23,Flat
+144,Premium Campaign 144,25,2024-03-21,2024-04-08,Free Shipping
+145,New Year Campaign 145,50,2025-03-04,2025-04-10,Free Shipping
+146,Festive Campaign 146,20,2023-10-02,2023-10-29,BOGO
+147,Clearance Campaign 147,20,2025-06-21,2025-07-26,Free Shipping
+148,Mega Campaign 148,30,2024-09-16,2024-10-17,Cashback
+149,Clearance Campaign 149,15,2025-05-21,2025-06-17,Flat
+150,Summer Campaign 150,30,2023-12-30,2024-01-22,Free Shipping

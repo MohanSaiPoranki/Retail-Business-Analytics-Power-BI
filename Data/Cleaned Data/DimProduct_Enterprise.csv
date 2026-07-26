@@ -1,0 +1,1001 @@
+ProductID,ProductName,CategoryID,SupplierID,Brand,CostPrice,SellingPrice,LaunchDate,Rating,Status
+1,Funskool Remote Control Car,18,13,Funskool,55183.49,76784.24,6/17/2025,4.8,Active
+2,Levi's Running Shoes,12,14,Levi's,28185.46,44885.98,10/10/2021,3.5,Active
+3,Maybelline Face Wash,5,57,Maybelline,54680.93,76830.32,5/29/2022,3.6,Active
+4,Levi's Hoodie,3,15,Levi's,44205.35,62657.25,7/10/2025,5,Active
+5,L'Oréal Face Wash,14,73,L'Oréal,15485.71,20047.95,10/5/2025,5,Active
+6,Cosco Football,7,32,Cosco,45482.28,59907.05,7/18/2022,5,Active
+7,Sony Gaming Mouse,19,64,Sony,6607.71,8426.15,7/8/2024,4.4,Active
+8,Aashirvaad Organic Honey,15,25,Aashirvaad,59547.52,89607.05,9/10/2025,3.7,Active
+9,IKEA Wardrobe,20,140,IKEA,9741.38,14556.49,6/1/2024,4.8,Active
+10,Maybelline Shampoo,5,151,Maybelline,45631.51,71293.13,3/22/2024,3.9,Active
+11,Puma Slim Fit Jeans,3,149,Puma,13900.4,16696.28,2/7/2023,4.6,Active
+12,Penguin Power BI Guide,17,121,Penguin,35974.56,52262.1,7/11/2023,4.4,Active
+13,Lego Puzzle Set,9,143,Lego,43996.4,51513.83,7/16/2024,3.4,Active
+14,Bosch Vacuum Cleaner,4,2,Bosch,58852.13,72419.08,4/10/2022,4.2,Active
+15,Nilkamal Wardrobe,2,115,Nilkamal,9702.54,14630.42,8/4/2021,4.1,Active
+16,Asus Bluetooth Speaker,1,114,Asus,5482.18,6774.38,5/11/2021,4,Active
+17,Funskool Remote Control Car,9,117,Funskool,6270.49,9724.65,1/9/2024,3.4,Active
+18,Allen Solly Sports Jacket,3,162,Allen Solly,8110.99,12220.24,7/10/2022,3.4,active
+19,IKEA Wardrobe,2,146,IKEA,41588.52,62430.24,7/6/2024,0,Active
+20,Tata Basmati Rice,15,119,Tata,27829.69,33278.15,2/15/2023,4.9,Active
+21,Sony OLED TV,1,176,Sony,32708.21,43169.36,1/4/2021,4.3,Active
+22,Nivia Badminton Racket,7,129,Nivia,940.19,1434.55,1/1/2025,3.7,Active
+23,Havells Microwave Oven,13,56,Havells,48921.16,63261.58,6/15/2021,4.4,Active
+24,HP iPhone 15 Pro,19,2,HP,15968.21,21408.68,4/29/2023,3.5,Active
+25,Levi's Hoodie,3,37,Levi's,26099.5,32230.86,2/25/2023,3.4,Active
+26,Levi's Sneakers,3,142,Levi's,33718.92,43380.22,1/22/2022,3.6,Active
+27,Penguin Python for Data Analysis,8,37,Penguin,19936.09,25536.48,5/6/2025,4.2,Active
+28,Hasbro Remote Control Car,18,136,Hasbro,19476.94,29601.59,5/17/2022,4.1,Active
+29,Samsung OLED TV,10,115,Samsung,52236.05,67656.84,5/4/2023,4.4,Active
+30,Hasbro Action Figure,18,166,Hasbro,17056.06,13644.85,2/8/2022,4.8,Active
+31,Lego Building Blocks,9,74,Lego,6270.14,7110.23,12/4/2023,3.7,Active
+32,Lakme Lipstick,14,199,Lakme,17722.51,20137.14,3/21/2021,4.8,Active
+33,Asus Bluetooth Speaker,10,157,Asus,50066.75,79412.68,11/5/2021,4,Active
+34,Maybelline Lipstick,14,104,Maybelline,29113,41705.27,11/18/2024,4.1,Active
+35,Adidas Sports Jacket,3,98,Adidas,1917.98,2717.79,5/25/2021,4.2,Active
+36,Lego Puzzle Set,18,36,Lego,49327.13,74828.45,6/25/2022,5.8,Active
+37,Yonex Yoga Mat,7,200,Yonex,31651.22,46998.79,8/5/2021,3.6,Active
+38,IFB Microwave Oven,13,32,IFB,56738.06,67907.86,4/8/2021,3.9,Active
+39,Maybelline Body Lotion,14,58,Maybelline,33496.51,38726.98,3/4/2021,4.6,Active
+40,Adidas Formal Shirt,3,65,Adidas,25113.24,34038.51,7/10/2023,3.9,Active
+41,Amul Olive Oil,6,170,Amul,27520.99,40136.92,2/8/2025,4,Active
+42,Aashirvaad Olive Oil,15,67,Aashirvaad,1395.66,1836.55,4/19/2022,3.6,Active
+43,Penguin SQL Cookbook,17,96,Penguin,42544.84,56622.98,6/15/2025,4.6,Active
+44,Penguin Statistics Essentials,17,70,Penguin,48894.43,77327.58,9/17/2023,3.6,Active
+45,Apple iPhone 15 Pro,10,71,Apple,22280.87,32303.8,3/24/2024,4.5,Active
+46,Havells Air Fryer,13,83,Havells,28587.74,38566.5,1/1/2028,4.5,Active
+47,Funskool Puzzle Set,9,129,Funskool,48505.9,58379.36,4/27/2022,3.6,Active
+48,Wilson Cricket Bat,16,147,Wilson,572.46,635.35,6/7/2025,3.8,Active
+49,Asus Bluetooth Speaker,19,192,Asus,53054.34,60955.38,3/18/2022,3.7,Active
+50,HarperCollins SQL Cookbook,8,11,HarperCollins,49854.17,69545.78,3/15/2021,4.1,Active
+51,Tata Almonds,6,40,Tata,44301.35,61299.94,9/11/2021,3.8,Active
+52,Acer Galaxy S24 Ultra,19,195,Acer,23827.49,28190.76,3/28/2021,3.4,Active
+53,Aashirvaad Organic Honey,6,137,Aashirvaad,4214.81,5533.39,3/1/2028,4.3,Active
+54,McGraw Hill Python for Data Analysis,8,1,McGraw Hill,34647.65,40745.35,9/21/2022,4.8,Active
+55,Philips Mixer Grinder,4,122,Philips,32234.77,47168.03,3/5/2022,3.4,Active
+56,Acer Bluetooth Speaker,1,99,Acer,14554.35,21817.78,4/8/2025,4.4,Active
+57,Sony Bluetooth Speaker,19,24,Sony,28753.71,45284.39,3/30/2025,3.5,Active
+58,Nivia Badminton Racket,16,128,Nivia,47023.09,57116.6,6/18/2025,3.6,ACTIVE
+59,IFB Air Fryer,13,113,IFB,44794.47,60041.79,4/14/2023,4.6,Active
+60,Urban Ladder Bookshelf,2,64,Urban Ladder,10740.75,14868.25,2/11/2025,4.9,Active
+61,Bosch Air Purifier,13,16,Bosch,31752.44,46598.94,6/26/2025,3.9,Active
+62,Nilkamal Coffee Table,11,161,Nilkamal,40981.14,48043.98,2/11/2022,4.9,Active
+63,Allen Solly Running Shoes,3,132,Allen Solly,33333.42,40033.35,4/21/2025,4,Active
+64,Tata Green Tea,6,36,Tata,49045.15,58956.12,1/11/2024,4.8,Active
+65,Whirlpool Air Purifier,13,172,Whirlpool,30486.83,37361.37,4/1/2028,4.7,Active
+66,Whirlpool Vacuum Cleaner,13,113,Whirlpool,16899.63,25268.57,4/30/2022,4.2,Active
+67,Durian Coffee Table,20,113,Durian,11350.69,15377.84,9/7/2023,4.2,Active
+68,Penguin Statistics Essentials,8,2,Penguin,27919.56,42504.14,11/18/2025,4.2,Active
+69,Lakme Face Wash,14,184,Lakme,51648.78,80407.47,1/2/2021,5,Active
+70,Lenovo OLED TV,19,73,Lenovo,716.69,986.57,12/14/2023,4.3,Active
+71,Godrej Study Table,2,48,Godrej,40086.39,45394.32,9/22/2022,3.9,Active
+72,Tata Olive Oil,15,198,Tata,37509.79,59626.08,10/31/2022,4.3,Active
+73,Aashirvaad Green Tea,6,129,Aashirvaad,46723.69,55325.58,4/29/2024,0,Active
+74,Asus Noise Cancelling Headphones,19,109,Asus,16254.81,24130.55,2/13/2022,4.2,Active
+75,Nivea Face Wash,5,96,Nivea,33842.61,40411.55,12/12/2023,3.4,Active
+76,Nivea Body Lotion,14,98,Nivea,31849.35,46407.84,7/27/2023,4.3,Active
+77,Penguin SQL Cookbook,8,117,Penguin,25370.81,38878.93,2/25/2025,3.9,Active
+78,Nike Sports Jacket,3,102,Nike,13114.34,17671.76,7/21/2024,4.7,Active
+79,Godrej Coffee Table,2,197,Godrej,53105.28,83406.71,3/13/2024,4.5,Active
+80,Philips Vacuum Cleaner,4,162,Philips,33607.15,50130.05,1/2/2021,4,Active
+81,McGraw Hill Power BI Guide,17,192,McGraw Hill,43489.75,51855.07,6/6/2024,3.2,
+82,Tata Basmati Rice,15,145,Tata,44579.05,67666.92,6/5/2021,3.2,Active
+83,JBL Bluetooth Speaker,10,15,JBL,14147.64,20155.25,8/23/2021,3.7,Active
+84,Nilkamal Dining Table,20,126,Nilkamal,56429.37,87492.32,8/9/2022,4.5,Inactive
+85,Godrej Study Table,2,118,Godrej,28376.35,38593.14,10/14/2022,4.5,Active
+86,Cosco Yoga Mat,16,76,Cosco,23321.96,30617.05,7/6/2025,4.2,Active
+87,Aashirvaad Almonds,6,136,Aashirvaad,45010.24,59273.58,10/24/2022,4.6,Active
+88,Wilson Badminton Racket,7,77,Wilson,13585.52,20528.47,4/5/2022,3.3,Active
+89,Amul Basmati Rice,15,25,Amul,9236.91,12375.54,5/12/2025,4.4,Active
+90,IKEA Dining Table,20,19,IKEA,16981.36,25474.61,8/26/2022,4.7,Active
+91,Tata Olive Oil,15,146,Tata,45775.89,71164.01,10/12/2025,4.3,Active
+92,HarperCollins Python for Data Analysis,8,25,HarperCollins,35507.56,44661.04,3/5/2021,4.8,Active
+93,L'Oréal Lipstick,14,63,L'Oréal,34247.27,43289.19,6/6/2022,3.5,Active
+94,McGraw Hill Python for Data Analysis,17,22,McGraw Hill,27797.94,37964.46,3/15/2021,3.3,Active
+95,Godrej Coffee Table,20,79,Godrej,31742.16,50423.93,12/10/2023,4.8,Active
+96,Durian Dining Table,2,33,Durian,7774.55,11208.59,4/29/2021,3.7,Active
+97,Cosco Yoga Mat,7,154,Cosco,28349.87,35924.19,6/5/2021,5.8,Active
+98,Amul Green Tea,15,84,Amul,59034.51,92825.33,10/20/2021,3.8,Active
+99,HP Bluetooth Speaker,10,164,HP,44388.07,54825.4,11/8/2021,3.6,Active
+100,Nivea Perfume,14,131,Nivea,47982.75,38386.2,5/7/2024,4.5,Active
+101,Amul Basmati Rice,6,109,Amul,48862.82,39090.26,2/25/2024,4.4,Active
+102,Hasbro Building Blocks,18,14,Hasbro,24150.61,36395.37,8/18/2025,4.9,Active
+103,Fortune Organic Honey,6,129,Fortune,12019.19,18073.11,3/27/2023,4.6,Active
+104,Acer Mechanical Keyboard,19,59,Acer,50351.28,61936.13,11/21/2023,3.8,Active
+105,JBL Smart Watch,10,110,JBL,6550.06,8080.12,3/1/2025,3.5,Active
+106,Tata Almonds,15,139,Tata,55527.7,75327.56,5/28/2022,3.6,Active
+107,Mamaearth Shampoo,5,167,Mamaearth,9314.18,13639.52,12/12/2021,4.9,Active
+108,LG iPhone 15 Pro,1,97,LG,28583.99,45647.03,12/24/2024,4.4,Active
+109,Dell Gaming Mouse,19,56,Dell,833.38,962.73,10/19/2022,4,Active
+110,Apple OLED TV,19,131,Apple,20362.38,25103.89,5/12/2023,4.3,Active
+111,Philips Air Purifier,13,32,Philips,58263.45,66657.93,7/20/2021,3.8,Active
+112,Urban Ladder Study Table,11,62,Urban Ladder,57830.62,66702.54,8/9/2021,4.5,Active
+113,Lego Action Figure,18,99,Lego,18793.23,26255.72,11/29/2022,5,Active
+114,Nivia Cricket Bat,7,53,Nivia,16385.89,18513.9,8/12/2022,3.6,Active
+115,Fortune Olive Oil,6,64,Fortune,56140.52,74964.82,6/19/2024,4.7,Active
+116,Allen Solly Hoodie,3,28,Allen Solly,6470.36,7779.21,7/6/2023,3.4,Active
+117,Urban Ladder Dining Table,20,139,Urban Ladder,20859.46,25507.31,3/25/2022,4.5,Active
+118,Yonex Cricket Bat,7,90,Yonex,52711.56,68239.03,1/17/2024,4.1,Active
+119,L'Oréal Perfume,14,174,L'Oréal,18561.74,27296.96,2/1/2022,3.7,Active
+120,McGraw Hill Python for Data Analysis,8,151,McGraw Hill,22803.89,35419.56,12/19/2021,4.1,Active
+121,McGraw Hill Power BI Guide,8,84,McGraw Hill,26634.31,39801.69,1/27/2022,4.7,Active
+122,Cosco Badminton Racket,7,193,Cosco,8261.54,9320.15,6/21/2023,3.2,Active
+123,Maybelline Face Wash,5,194,Maybelline,13463.28,18413.36,5/16/2024,4.5,Active
+124,L'Oréal Face Wash,5,25,L'Oréal,7266.63,10664.07,8/13/2025,3.6,Active
+125,McGraw Hill SQL Cookbook,8,19,McGraw Hill,54398.24,78869.06,12/25/2022,3.2,Active
+126,L'Oréal Shampoo,5,97,L'Oréal,20158.09,25140.78,3/23/2022,4.9,Active
+127,Whirlpool Microwave Oven,4,88,Whirlpool,6589.91,9911.58,3/7/2023,4.3,Active
+128,Amul Basmati Rice,6,73,Amul,36072.94,50777.49,4/15/2025,4.2,Active
+129,Lenovo Gaming Mouse,10,38,Lenovo,25642.99,38367.03,11/20/2023,3.5,Active
+130,Puma Slim Fit Jeans,12,156,Puma,50309.25,69057.67,5/23/2025,4.3,Active
+131,Havells Vacuum Cleaner,13,73,Havells,39716.36,52283.35,11/29/2025,4.4,Active
+132,Adidas Hoodie,12,41,Adidas,23452.29,33201.7,1/19/2025,4.9,Active
+133,McGraw Hill SQL Cookbook,8,199,McGraw Hill,33927.4,27141.92,5/20/2023,4.9,Active
+134,Penguin SQL Cookbook,17,18,Penguin,23317.49,26051.84,5/8/2024,3.5,Active
+135,Durian Study Table,2,61,Durian,59617.73,72799.9,10/10/2024,4.4,Active
+136,Fortune Almonds,15,82,Fortune,24351.67,33987.61,7/9/2021,3.9,Active
+137,IKEA Bookshelf,20,5,IKEA,11215.6,17803.07,9/13/2024,4.1,Active
+138,McGraw Hill SQL Cookbook,8,23,McGraw Hill,4644.64,6870.63,3/2/2024,3.8,Active
+139,IKEA Dining Table,2,29,IKEA,26628.18,31591.42,12/15/2024,3.8,Active
+140,Fortune Olive Oil,6,79,Fortune,30649.56,42703.47,1/3/2023,3.4,Active
+141,Cosco Badminton Racket,7,39,Cosco,41418.43,49720.74,12/28/2022,3.7,Active
+142,Whirlpool Mixer Grinder,4,93,Whirlpool,13615.98,21001.33,9/20/2022,4.9,Active
+143,Dell Galaxy S24 Ultra,1,8,Dell,28923.39,37883.11,12/17/2024,4,Active
+144,IKEA Study Table,20,126,IKEA,8022.22,10214.98,11/11/2022,3.4,Active
+145,Lenovo Inspiron Laptop,1,198,Lenovo,38302.74,44028.9,8/6/2024,3.7,Active
+146,Yonex Football,16,29,Yonex,32040.55,49850.62,10/16/2024,3.8,Active
+147,HarperCollins Statistics Essentials,8,61,HarperCollins,12126.78,18574.01,1/23/2023,3.6,Active
+148,Cosco Yoga Mat,7,165,Cosco,26880.27,30830.93,12/31/2024,3.5,Active
+149,Lakme Face Wash,5,90,Lakme,21809.65,25628.24,2/1/2028,3.6,Active
+150,Wilson Football,16,130,Wilson,45929.96,66410.55,8/1/2024,3.5,Active
+151,Hasbro Building Blocks,18,21,Hasbro,45809.92,58863.79,8/23/2021,3.6,Active
+152,McGraw Hill Python for Data Analysis,8,24,McGraw Hill,33011.54,50560.85,12/14/2024,3.9,Active
+153,Wilson Badminton Racket,7,66,Wilson,52056.69,59190.06,7/11/2022,4.4,ACTIVE
+154,Nivia Football,16,101,Nivia,13491.97,19037.44,7/14/2024,3.9,Active
+155,Lego Building Blocks,9,116,Lego,23971.74,30733.44,7/11/2023,3.6,Active
+156,L'Oréal Body Lotion,5,114,L'Oréal,12578,16399.3,11/8/2024,4.7,Active
+157,IKEA Dining Table,2,121,IKEA,55706.28,84563.22,6/1/2024,5,Active
+158,HarperCollins Power BI Guide,17,65,HarperCollins,40295.56,63683.09,12/14/2024,3.4,Active
+159,Amul Green Tea,15,160,Amul,36555.66,54810.43,8/22/2025,4.9,Active
+160,Aashirvaad Organic Honey,15,63,Aashirvaad,57101.95,65446.48,1/16/2023,3.5,Active
+161,Nilkamal Study Table,20,107,Nilkamal,54870.98,80465.46,3/13/2024,4.2,Active
+162,Lego Puzzle Set,9,176,Lego,40844.94,64784.82,11/21/2021,4.1,Active
+163,HarperCollins Power BI Guide,17,157,HarperCollins,32446.14,43800.15,6/28/2024,4.6,Active
+164,Godrej Dining Table,2,13,Godrej,4243.76,6607.3,4/12/2025,4.6,Active
+165,Allen Solly Sneakers,12,184,Allen Solly,50473.49,59558.2,1/19/2025,3.9,Active
+166,Wilson Yoga Mat,16,179,Wilson,29479.26,46032.65,4/21/2022,3.7,Active
+167,Funskool Action Figure,18,98,Funskool,7542.9,9958.94,7/12/2022,3.2,Active
+168,Havells Air Purifier,13,188,Havells,33552.54,49806.42,1/25/2023,3.9,Active
+169,Aashirvaad Almonds,15,131,Aashirvaad,3776.29,4320.41,8/9/2021,3.4,Active
+170,Funskool Action Figure,9,130,Funskool,28711.56,39897.88,9/1/2021,3.7,Active
+171,Sony OLED TV,10,148,Sony,8424.13,11426.06,5/1/2028,4.1,Active
+172,Funskool Action Figure,18,39,Funskool,4909.46,6923.24,4/18/2023,4.2,Active
+173,Lego Remote Control Car,9,52,Lego,4179.99,4789.35,2/26/2024,3.9,Active
+174,Penguin Statistics Essentials,8,179,Penguin,22071.23,33015.28,7/27/2021,3.8,Active
+175,Yonex Badminton Racket,16,143,Yonex,28801.79,37501.73,12/3/2021,3.3,Active
+176,Penguin SQL Cookbook,8,85,Penguin,52490.92,82756.24,7/10/2023,3.4,Active
+177,Hasbro Puzzle Set,9,47,Hasbro,3639.73,4673.71,7/14/2021,3.5,Active
+178,Amul Olive Oil,15,30,Amul,37963.4,51953.01,5/20/2022,4.3,Active
+179,Lakme Shampoo,14,182,Lakme,28607.4,36054.54,3/25/2025,4.5,Active
+180,Whirlpool Air Fryer,13,85,Whirlpool,10645.68,14439.42,4/6/2024,3.8,Active
+181,Wilson Badminton Racket,16,106,Wilson,37792.3,44910.16,8/5/2023,3.3,Active
+182,Adidas Sneakers,3,125,Adidas,46806.46,62094.08,11/21/2025,3.7,Active
+183,Godrej Coffee Table,20,96,Godrej,58712.18,72245.27,2/14/2023,4.2,Active
+184,IFB Air Purifier,4,6,IFB,48159.42,53511.39,8/20/2025,0,Active
+185,Tata Olive Oil,6,63,Tata,18059.36,22511.5,3/1/2021,4.6,Active
+186,Samsung Bluetooth Speaker,1,150,Samsung,19418.2,26376.24,9/26/2021,4.6,Active
+187,Hasbro Remote Control Car,18,11,Hasbro,20915.33,31015.93,2/26/2025,4.4,Active
+188,Godrej Study Table,2,178,Godrej,27594.55,39309.68,1/14/2024,3.6,Active
+189,Wilson Cricket Bat,16,43,Wilson,58966.94,76882.39,3/29/2021,3.2,Active
+190,Nivea Perfume,14,145,Nivea,33217.56,49824.72,8/23/2024,3.4,Active
+191,Aashirvaad Almonds,15,139,Aashirvaad,8584.13,11032.7,9/18/2022,3.5,ACTIVE
+192,JBL Mechanical Keyboard,1,73,JBL,49464.72,63470.27,9/28/2024,3.4,Active
+193,Hasbro Action Figure,18,197,Hasbro,32049.87,41059.39,5/8/2021,4.5,Active
+194,Bosch Mixer Grinder,4,56,Bosch,38678.01,46927.14,7/20/2023,3.5,Active
+195,Allen Solly Running Shoes,12,149,Allen Solly,3499.39,5081.08,11/15/2023,0,Active
+196,Asus Smart Watch,10,82,Asus,10862.87,16365.16,3/17/2024,4.8,Active
+197,JBL Bluetooth Speaker,1,148,JBL,35827.69,46001.27,5/23/2025,4.1,Active
+198,Nivia Badminton Racket,16,114,Nivia,6856.13,8948.96,11/2/2021,4.1,Active
+199,HP Galaxy S24 Ultra,10,84,HP,2699.57,3081.58,4/30/2023,4.4,Active
+200,Aashirvaad Green Tea,15,167,Aashirvaad,53030.08,77365.16,11/2/2023,4.8,Active
+201,LG Bluetooth Speaker,1,55,LG,14127.06,21303.15,9/7/2025,4.5,Active
+202,Lego Building Blocks,9,194,Lego,46717.32,54238.28,5/28/2025,3.4,Active
+203,Godrej Dining Table,20,75,Godrej,2804.8,4244.14,9/10/2024,4.9,Active
+204,Nilkamal Office Chair,11,137,Nilkamal,50049.08,70375.33,12/24/2023,4.4,Active
+205,IKEA Wardrobe,20,28,IKEA,55502.6,69943.2,2/6/2022,3.9,Active
+206,Nivia Badminton Racket,7,61,Nivia,51782.81,74508.52,11/2/2022,4.9,Active
+207,Penguin Python for Data Analysis,8,47,Penguin,40388.35,44674.08,3/3/2025,4.6,Active
+208,Acer Gaming Mouse,19,53,Acer,33845.18,42708.95,4/29/2022,4.4,Active
+209,Nivea Perfume,5,152,Nivea,23362.04,18689.63,8/12/2024,4.8,Active
+210,Lego Building Blocks,9,142,Lego,45004.78,49983.58,12/8/2023,3.7,Active
+211,Nestle Green Tea,6,138,Nestle,48662.15,74303.65,1/4/2024,3.2,Actve
+212,Penguin Python for Data Analysis,17,14,Penguin,20919.81,25816.94,2/17/2024,4.9,Active
+213,Bosch Air Fryer,13,64,Bosch,1786.05,2807.64,6/20/2022,3.9,Active
+214,Funskool Action Figure,9,43,Funskool,5741.67,8608.56,6/17/2024,4.5,Active
+215,HarperCollins SQL Cookbook,17,85,HarperCollins,7825.15,9066.91,9/23/2022,5,Active
+216,Nilkamal Bookshelf,20,174,Nilkamal,34439.2,51201.05,2/28/2021,4.1,Active
+217,Hasbro Puzzle Set,9,43,Hasbro,21761.91,26989.04,8/7/2022,4.6,Active
+218,Van Heusen Sports Jacket,12,6,Van Heusen,6567.93,10437.43,7/17/2022,3.4,Active
+219,Nivea Face Wash,5,147,Nivea,22204.32,35156.01,4/7/2024,4.2,Active
+220,Penguin SQL Cookbook,17,39,Penguin,51008.94,60434.62,6/9/2022,3.7,Active
+221,Nilkamal Office Chair,20,127,Nilkamal,54988.6,83884.89,1/21/2023,4.5,Active
+222,Urban Ladder Bookshelf,11,50,Urban Ladder,4526.09,6557.51,6/27/2023,3.8,Active
+223,L'Oréal Lipstick,14,37,L'Oréal,17013.87,19717.03,6/30/2023,3.6,Active
+224,Asus Gaming Mouse,19,195,Asus,10182.25,16193.96,11/20/2021,4,Active
+225,Nestle Basmati Rice,6,149,Nestle,53178.38,70763.28,5/29/2022,3.6,
+226,Whirlpool Mixer Grinder,4,162,Whirlpool,29857.86,36175.46,4/22/2024,3.8,Active
+227,Nilkamal Bookshelf,2,17,Nilkamal,12261.09,18946.16,2/9/2022,4.9,Active
+228,Maybelline Body Lotion,14,126,Maybelline,22359.56,28368.34,5/12/2024,3.9,Active
+229,Mamaearth Perfume,14,62,Mamaearth,13277.79,18415.64,11/5/2024,5,Active
+230,L'Oréal Perfume,5,98,L'Oréal,28726.37,42578.74,1/23/2021,5,Active
+231,Yonex Football,16,188,Yonex,6547.22,9938.5,5/12/2024,3.4,Active
+232,HarperCollins Statistics Essentials,17,145,HarperCollins,9932.76,13735.81,8/15/2024,4.6,Active
+233,Nilkamal Study Table,2,46,Nilkamal,55006.64,81871.87,9/15/2023,4.1,Active
+234,Fortune Organic Honey,15,84,Fortune,51016.86,78792.43,4/14/2022,4.4,Active
+235,Samsung Mechanical Keyboard,1,81,Samsung,27483.94,36886.63,11/27/2023,4.8,Active
+236,Whirlpool Mixer Grinder,4,85,Whirlpool,55758.04,74310.58,10/13/2025,4.8,Active
+237,Maybelline Lipstick,5,145,Maybelline,55232.21,84780.46,9/13/2021,4.3,Active
+238,Acer Inspiron Laptop,1,92,Acer,16572.14,18534.28,3/12/2025,4,Active
+239,Whirlpool Air Purifier,4,144,Whirlpool,36132.3,39909.21,5/8/2024,4.6,Active
+240,Aashirvaad Olive Oil,15,161,Aashirvaad,56387.54,85959.95,1/13/2024,3.4,Active
+241,HarperCollins Power BI Guide,17,19,HarperCollins,8058.69,11857.71,2/14/2024,3.3,Inactive
+242,Funskool Action Figure,9,55,Funskool,54578.53,83532.2,4/23/2021,4.2,Active
+243,Aashirvaad Organic Honey,6,160,Aashirvaad,50304.24,75261.99,8/31/2022,3.4,Active
+244,Hasbro Building Blocks,9,53,Hasbro,4684.31,7058.32,10/12/2024,3.3,Active
+245,Urban Ladder Coffee Table,11,179,Urban Ladder,27054.33,35034.53,2/26/2025,3.4,Active
+246,LG Inspiron Laptop,19,143,LG,23009.09,30463.78,4/7/2024,4.1,Active
+247,Nike Sports Jacket,12,11,Nike,34478.43,49328.26,7/31/2022,3.6,Active
+248,Maybelline Body Lotion,5,84,Maybelline,17670.71,20832.23,7/19/2024,4.9,Active
+249,Cosco Cricket Bat,16,78,Cosco,6009.74,8636.4,4/16/2021,4.9,Active
+250,Nivea Perfume,14,4,Nivea,11197.29,14060.99,10/20/2025,4.5,Active
+251,Samsung Inspiron Laptop,19,88,Samsung,7946.54,10813.36,5/5/2021,4.9,Active
+252,Whirlpool Microwave Oven,13,70,Whirlpool,3383.73,5084.45,4/29/2021,3.5,Actve
+253,IKEA Coffee Table,11,52,IKEA,12918.35,18334.82,9/20/2022,4.9,Active
+254,HP Noise Cancelling Headphones,10,104,HP,10097.76,14499.35,8/18/2023,4.1,Active
+255,Cosco Yoga Mat,7,188,Cosco,45849.02,56714.21,1/28/2023,4.7,Active
+256,Amul Basmati Rice,6,178,Amul,38442.47,55366.78,9/24/2023,3.3,Active
+257,IKEA Dining Table,11,108,IKEA,28214.51,36627.73,8/9/2022,3.5,Active
+258,Maybelline Lipstick,14,156,Maybelline,52241.47,67073.1,1/29/2021,4.7,Active
+259,Godrej Dining Table,11,54,Godrej,36428.19,45123.92,6/6/2021,4,Active
+260,Acer Noise Cancelling Headphones,19,6,Acer,23191.37,27108.77,1/4/2024,3.7,Active
+261,HarperCollins SQL Cookbook,17,190,HarperCollins,51905.42,72048.33,3/20/2021,4.7,Active
+262,Hasbro Remote Control Car,9,16,Hasbro,54999.23,76856.78,5/25/2023,4.5,Active
+263,Nestle Basmati Rice,6,166,Nestle,32429.34,46715.13,8/16/2022,4,
+264,Bosch Air Purifier,13,161,Bosch,4153.24,4805.64,11/3/2024,3.2,Actve
+265,L'Oréal Shampoo,14,8,L'Oréal,30708,37146.79,9/20/2025,4.5,Active
+266,Samsung Gaming Mouse,10,166,Samsung,29801.13,34678.87,8/29/2023,5,Active
+267,Whirlpool Air Purifier,13,117,Whirlpool,53797.94,59763.65,2/28/2022,4.5,Active
+268,Wilson Yoga Mat,16,122,Wilson,40881.81,52216.11,6/20/2022,4.1,Active
+269,Samsung Inspiron Laptop,1,107,Samsung,712.85,1117.03,8/30/2023,3.7,Active
+270,Maybelline Body Lotion,14,11,Maybelline,8453.6,12807.83,5/15/2024,4.8,Actve
+271,Penguin Statistics Essentials,8,55,Penguin,49341.39,63891.67,1/30/2025,4.9,Active
+272,JBL Smart Watch,1,60,JBL,52172.55,83148.61,10/28/2023,3.4,Active
+273,Lakme Body Lotion,14,57,Lakme,42593.1,34074.48,9/5/2021,4.5,Active
+274,Nestle Olive Oil,6,171,Nestle,19856.77,25756.4,3/18/2022,3.3,Active
+275,Philips Air Purifier,4,64,Philips,27690.66,36398.8,11/22/2022,3.5,Active
+276,Philips Microwave Oven,4,35,Philips,45944.8,69378.51,9/26/2025,4.6,Active
+277,Van Heusen Slim Fit Jeans,12,76,Van Heusen,10305.8,16329.14,10/21/2025,4.9,Inactive
+278,McGraw Hill Python for Data Analysis,17,52,McGraw Hill,53880.05,77745.08,5/23/2024,4.3,Active
+279,Nilkamal Bookshelf,2,111,Nilkamal,46818.97,54563.54,11/20/2024,4.3,Active
+280,Penguin Python for Data Analysis,17,25,Penguin,32241.23,46010.09,12/7/2024,3.6,Active
+281,Nivia Badminton Racket,7,107,Nivia,24333.19,29444.84,10/1/2025,5,Active
+282,IFB Microwave Oven,13,36,IFB,55261.99,78974.6,7/28/2022,3.7,Active
+283,Wilson Cricket Bat,7,13,Wilson,27985.59,36281.44,12/29/2024,4.4,Active
+284,Philips Mixer Grinder,13,77,Philips,24660.63,33855.4,3/28/2021,3.3,Active
+285,Lakme Lipstick,5,154,Lakme,12669.49,18526.44,2/19/2024,4.7,Active
+286,Mamaearth Perfume,5,49,Mamaearth,33133.69,52545.36,9/4/2023,4,Active
+287,Nivea Perfume,14,178,Nivea,19687.42,24863.32,4/23/2021,4.1,Active
+288,Nivia Yoga Mat,7,16,Nivia,54894.23,66916.4,4/17/2022,4.7,Active
+289,Durian Wardrobe,11,114,Durian,45941.75,59305.2,6/4/2023,5,
+290,Wilson Yoga Mat,16,182,Wilson,10453.08,14193.15,10/29/2024,3.9,Active
+291,Penguin Power BI Guide,8,195,Penguin,12417.04,15167.18,3/20/2022,4.1,Active
+292,Penguin SQL Cookbook,8,18,Penguin,8455.48,13059.21,9/26/2024,4.4,Active
+293,Levi's Formal Shirt,3,196,Levi's,59155.87,82236.98,5/10/2025,4.7,Active
+294,Fortune Almonds,15,65,Fortune,30550.85,33773.66,12/3/2024,3.4,Active
+295,Maybelline Face Wash,5,123,Maybelline,28900.37,41935.98,4/15/2022,3.5,Active
+296,Lakme Body Lotion,5,6,Lakme,8325.74,10452.12,1/29/2024,3.5,Active
+297,Philips Air Fryer,13,40,Philips,27086.21,32388.16,5/4/2021,3.7,Active
+298,Lego Puzzle Set,18,19,Lego,29032.73,35018.19,2/10/2024,4.4,Active
+299,Nivea Face Wash,14,161,Nivea,31086.36,48256.2,10/23/2023,3.9,Active
+300,Nilkamal Coffee Table,2,87,Nilkamal,11294.32,14160.17,10/16/2025,4.5,Active
+301,L'Oréal Perfume,14,92,L'Oréal,8667.27,11836.91,5/30/2023,4.6,Active
+302,IKEA Dining Table,20,135,IKEA,3495.95,5177.09,11/2/2023,4.9,Active
+303,Whirlpool Vacuum Cleaner,4,14,Whirlpool,46658.78,61325.98,2/2/2022,3.9,Active
+304,Lego Puzzle Set,18,103,Lego,41798.82,53308.69,10/31/2024,4.1,Active
+305,Urban Ladder Dining Table,11,194,Urban Ladder,51243.5,58314.51,1/15/2022,0,Active
+306,Nilkamal Dining Table,20,138,Nilkamal,33678.79,38753.22,10/21/2023,3.9,Active
+307,Lakme Perfume,14,14,Lakme,23404.97,27461.08,12/14/2023,3.6,Active
+308,Apple Noise Cancelling Headphones,19,93,Apple,51670.69,78340.88,3/25/2022,4.9,Active
+309,Nilkamal Dining Table,2,58,Nilkamal,45631.68,72709.01,8/28/2021,4.4,Active
+310,L'Oréal Face Wash,5,6,L'Oréal,57257.85,78576.09,9/22/2021,3.9,Active
+311,Acer Smart Watch,1,104,Acer,58054.82,76485.9,1/4/2021,3.5,Active
+312,Puma Running Shoes,12,159,Puma,20392.54,24942.21,3/8/2023,4.5,Active
+313,Lego Building Blocks,18,190,Lego,6660.18,10400.39,5/1/2024,4.8,Active
+314,Urban Ladder Dining Table,2,153,Urban Ladder,6490.63,8669.38,5/10/2024,4.6,Active
+315,Asus Noise Cancelling Headphones,19,60,Asus,38565.31,51260,2/10/2022,4.6,Active
+316,Nike Sports Jacket,3,12,Nike,55414.77,78133.96,1/16/2025,3.5,Active
+317,HP Smart Watch,19,167,HP,47341.16,55211.14,2/23/2021,3.2,Active
+318,Aashirvaad Olive Oil,15,62,Aashirvaad,19254.4,27946.88,1/31/2021,4.4,Active
+319,Lego Building Blocks,9,111,Lego,10866.47,12679.22,9/30/2025,4.5,Active
+320,Bosch Mixer Grinder,4,5,Bosch,51201.71,80242.13,2/15/2021,3.9,Active
+321,Dell Galaxy S24 Ultra,19,83,Dell,28948.33,39555.09,1/5/2025,3.6,Active
+322,Cosco Yoga Mat,16,16,Cosco,12916.46,20345.61,1/1/2028,4.1,Active
+323,Amul Basmati Rice,6,84,Amul,14057.09,20512.23,12/10/2022,5.8,Active
+324,Levi's Sports Jacket,12,90,Levi's,9455.13,12547.88,11/21/2021,3.5,Active
+325,Nivia Cricket Bat,16,132,Nivia,43031.26,67880.92,4/23/2022,4.6,Active
+326,Tata Green Tea,15,157,Tata,42377.17,56048.09,8/12/2022,4.7,Active
+327,HP OLED TV,19,47,HP,38482.53,48601.13,3/17/2024,4.8,Active
+328,Durian Study Table,20,193,Durian,45295.73,56180.89,9/13/2024,4.3,Inactive
+329,Lakme Lipstick,14,58,Lakme,32700.57,51627.49,9/23/2025,4.7,Active
+330,Cosco Football,7,179,Cosco,58535.13,66104.37,10/8/2023,3.2,Active
+331,L'Oréal Perfume,5,119,L'Oréal,29195.92,44062.64,9/14/2024,4.6,Active
+332,Sony Mechanical Keyboard,19,107,Sony,13925.18,20866.77,1/25/2022,4.7,Active
+333,Fortune Basmati Rice,15,175,Fortune,53151.61,70797.13,12/31/2021,5,Active
+334,Lenovo OLED TV,19,130,Lenovo,34760.32,52647.57,10/22/2021,4.5,Active
+335,Cosco Football,7,37,Cosco,22028.7,25887.35,3/26/2025,3.2,Active
+336,Amul Green Tea,15,39,Amul,33420.74,39068.17,9/1/2021,3.4,Active
+337,Cosco Football,7,162,Cosco,38749.5,47629.73,12/5/2021,4.8,Active
+338,Sony Mechanical Keyboard,19,64,Sony,42154.77,50643.23,9/2/2023,4.5,Active
+339,Lakme Body Lotion,14,162,Lakme,55858.59,71260.64,8/18/2022,4.8,Active
+340,Aashirvaad Organic Honey,15,154,Aashirvaad,56215.92,86976.68,3/5/2022,4,Active
+341,Urban Ladder Coffee Table,2,28,Urban Ladder,37070.11,58235.87,5/3/2022,4.4,Active
+342,Yonex Football,16,154,Yonex,32131.37,42475.81,8/29/2023,4.5,Active
+343,Sony iPhone 15 Pro,1,46,Sony,56106.53,76293.64,4/8/2025,4.5,Active
+344,Godrej Dining Table,11,126,Godrej,9001.81,13880.92,8/16/2023,4.3,Active
+345,Nilkamal Study Table,11,133,Nilkamal,54233.37,74622.67,11/16/2024,3.7,Active
+346,Durian Dining Table,11,152,Durian,669.65,876.18,8/11/2024,4.7,Active
+347,Apple Noise Cancelling Headphones,1,141,Apple,3771.69,4315.18,7/6/2021,4.2,Active
+348,Lego Remote Control Car,18,195,Lego,29863.28,35789.15,3/26/2025,3.5,Actve
+349,Lego Remote Control Car,9,154,Lego,40200.87,63806.93,7/3/2024,4.7,Active
+350,IKEA Dining Table,11,57,IKEA,51583.56,59187.45,7/18/2025,4,Active
+351,Lego Building Blocks,18,153,Lego,2691.59,4063.95,1/8/2022,4.3,Active
+352,Van Heusen Sneakers,12,61,Van Heusen,5506.17,6587.2,6/15/2022,4.6,Active
+353,Bosch Vacuum Cleaner,13,61,Bosch,34098.3,39786.44,9/16/2022,4.8,Active
+354,Yonex Yoga Mat,7,78,Yonex,52586.82,73404.19,2/18/2024,4.7,Active
+355,Nivea Lipstick,14,100,Nivea,45747.63,63709.41,9/25/2025,3.2,Active
+356,HarperCollins Power BI Guide,17,51,HarperCollins,9561.09,12092.24,7/10/2022,4.3,Active
+357,Godrej Bookshelf,2,113,Godrej,45265.07,53387.99,1/30/2024,4,Active
+358,HarperCollins Power BI Guide,8,23,HarperCollins,31279.47,41920.83,10/23/2024,3.8,Active
+359,Cosco Football,16,53,Cosco,52422.11,71127.66,8/11/2022,3.3,Active
+360,Wilson Cricket Bat,16,153,Wilson,15941.47,21235.84,6/1/2028,4.8,Active
+361,Asus Inspiron Laptop,1,46,Asus,15779.01,25077.95,7/30/2024,3.2,Active
+362,Nivea Lipstick,14,90,Nivea,2768.06,3803.15,9/30/2024,3.4,Active
+363,Maybelline Face Wash,14,139,Maybelline,26974.51,31584.1,8/11/2021,3.7,Active
+364,Durian Bookshelf,20,132,Durian,36226.49,41741.23,7/23/2025,3.7,Active
+365,Puma Running Shoes,12,171,Puma,57859.47,78355.15,7/20/2025,4.2,Active
+366,Puma Formal Shirt,3,113,Puma,28812.97,40249.28,12/19/2023,4.8,Active
+367,Durian Dining Table,20,81,Durian,15889.75,25004.12,9/19/2024,4.5,Active
+368,Dell Galaxy S24 Ultra,10,189,Dell,29428.34,32416.17,6/15/2024,4.3,Active
+369,JBL Mechanical Keyboard,1,62,JBL,51123.39,77307.64,2/15/2025,3.6,active
+370,Samsung Inspiron Laptop,10,182,Samsung,28420.57,31797.5,12/23/2021,4.8,Active
+371,Funskool Remote Control Car,18,18,Funskool,2284.31,2524.66,3/4/2025,3.4,Active
+372,Cosco Badminton Racket,7,20,Cosco,56214.3,71568.16,8/6/2021,3.8,Active
+373,Amul Basmati Rice,15,169,Amul,6044.98,7215.67,6/19/2025,4.1,Active
+374,Sony Smart Watch,1,115,Sony,18432.61,27103.51,2/18/2024,4.9,Active
+375,Nilkamal Bookshelf,11,118,Nilkamal,30263.7,44440.98,3/20/2021,4.9,Active
+376,Asus Smart Watch,19,121,Asus,8029.3,9681.16,4/16/2023,4.2,Active
+377,Adidas Formal Shirt,12,175,Adidas,21080.29,32052.34,4/20/2024,3.4,Active
+378,Acer Bluetooth Speaker,19,181,Acer,2678.93,4095.28,6/24/2024,3.7,Active
+379,Amul Olive Oil,6,182,Amul,45443.05,52924.4,3/1/2023,3.8,Active
+380,Cosco Yoga Mat,7,124,Cosco,18887.79,24237.24,8/24/2021,4.1,ACTIVE
+381,Mamaearth Face Wash,5,22,Mamaearth,39910.19,60343.09,2/9/2021,4.7,Active
+382,Lakme Body Lotion,5,28,Lakme,57718.87,70492.94,8/18/2021,3.8,
+383,Maybelline Face Wash,14,63,Maybelline,57720.69,76143.57,3/4/2021,3.4,Active
+384,Nike Hoodie,3,127,Nike,59079.88,91218.57,9/3/2021,3.9,Active
+385,Lakme Body Lotion,14,195,Lakme,47229.75,65455.02,10/11/2021,4.8,Active
+386,Yonex Yoga Mat,16,42,Yonex,998.68,1405.75,12/23/2023,3.4,Active
+387,Lenovo Bluetooth Speaker,1,95,Lenovo,13986.99,19645.95,6/4/2021,3.6,Active
+388,Godrej Wardrobe,2,32,Godrej,51215.55,80259.86,10/6/2021,0,Active
+389,Tata Almonds,6,67,Tata,31519.46,45311.39,3/25/2025,3.7,Active
+390,Apple Smart Watch,10,31,Apple,31055.48,38675.16,6/9/2024,3.7,Active
+391,Apple Inspiron Laptop,19,63,Apple,35655.52,56638.3,1/1/2022,4.6,Actve
+392,Nilkamal Coffee Table,20,4,Nilkamal,30085.71,34541.73,12/14/2023,4,Active
+393,Nestle Green Tea,6,3,Nestle,5309.82,8304.58,9/8/2021,4.8,Active
+394,HP iPhone 15 Pro,1,114,HP,52451.94,69304.89,1/6/2021,4.5,Active
+395,Hasbro Action Figure,18,106,Hasbro,34999.23,50368.75,12/2/2023,4.9,Active
+396,Funskool Building Blocks,9,187,Funskool,42710.5,54657.38,12/21/2023,4.5,Active
+397,McGraw Hill Python for Data Analysis,17,140,McGraw Hill,32917.82,41639.51,3/29/2023,4.7,Active
+398,Nilkamal Office Chair,11,82,Nilkamal,22232.86,17786.29,7/1/2025,3.9,Active
+399,Allen Solly Sneakers,12,127,Allen Solly,34741.42,38484.28,10/5/2022,3.3,Active
+400,IKEA Coffee Table,20,129,IKEA,13488.69,21248.15,7/31/2023,4.8,Active
+401,Lego Remote Control Car,9,81,Lego,49217.9,75235.94,4/30/2023,3.9,Active
+402,McGraw Hill Power BI Guide,8,7,McGraw Hill,13416.05,16960.82,7/12/2022,4.8,Active
+403,Cosco Cricket Bat,16,123,Cosco,19571.12,21793.1,10/27/2021,3.8,Active
+404,Havells Vacuum Cleaner,4,181,Havells,47178.95,60447.04,11/3/2025,3.9,Active
+405,Hasbro Action Figure,9,199,Hasbro,4695.52,6808.01,8/14/2025,3.4,Active
+406,Nilkamal Coffee Table,11,70,Nilkamal,49627.24,57279.99,9/17/2023,4.1,Active
+407,Yonex Cricket Bat,7,72,Yonex,10243.27,12504.33,9/21/2025,4.3,Active
+408,Urban Ladder Coffee Table,2,148,Urban Ladder,24487.01,36064.15,9/20/2025,4,Active
+409,Sony Mechanical Keyboard,10,55,Sony,30685.06,38658.14,8/24/2024,4.8,Active
+410,Wilson Yoga Mat,16,48,Wilson,35388.84,45468.59,11/1/2022,4.6,Active
+411,Aashirvaad Almonds,15,112,Aashirvaad,17666.75,22957.84,10/19/2024,4.4,Active
+412,Philips Air Fryer,13,107,Philips,25535.83,36762.47,2/28/2022,3.8,Active
+413,Maybelline Body Lotion,5,11,Maybelline,4689.34,6050.02,7/14/2023,3.4,Active
+414,Lakme Shampoo,5,95,Lakme,1540.66,2138.4,7/8/2025,3.7,Active
+415,Apple iPhone 15 Pro,19,58,Apple,14482.6,17929.31,11/30/2021,3.5,Active
+416,Urban Ladder Coffee Table,20,171,Urban Ladder,7963.74,9963.67,8/6/2021,3.4,Active
+417,Lego Action Figure,18,196,Lego,28909.38,43595.09,3/8/2021,3.3,Active
+418,Hasbro Building Blocks,9,48,Hasbro,4147.42,5450.23,4/10/2022,3.7,Active
+419,Lego Action Figure,9,130,Lego,9792.63,11844.82,9/21/2022,4.8,Active
+420,Nilkamal Study Table,2,163,Nilkamal,50673.91,71489.71,10/29/2024,4.4,Active
+421,Lego Action Figure,9,189,Lego,7284.64,11058.52,6/1/2023,4.3,Actve
+422,Urban Ladder Wardrobe,20,35,Urban Ladder,49065.76,56603.3,2/2/2021,3.3,Actve
+423,IKEA Coffee Table,2,139,IKEA,10598.73,15268.2,10/27/2025,4.1,Active
+424,Whirlpool Vacuum Cleaner,4,70,Whirlpool,32354.32,44470.59,11/7/2021,3.4,Active
+425,Cosco Football,7,32,Cosco,20722.81,25499.4,2/12/2024,5.8,Active
+426,Van Heusen Running Shoes,12,8,Van Heusen,41569.82,50569.53,4/15/2024,3.8,Inactive
+427,Mamaearth Perfume,5,106,Mamaearth,712.63,894.59,11/5/2025,4.7,Active
+428,Yonex Yoga Mat,7,52,Yonex,32727.21,51440.41,7/4/2022,3.7,Active
+429,JBL iPhone 15 Pro,10,17,JBL,4484.94,6919.09,2/21/2025,4,Active
+430,Yonex Cricket Bat,7,135,Yonex,24740.02,30590.92,2/27/2021,3.6,Active
+431,Whirlpool Mixer Grinder,4,26,Whirlpool,7480.06,9214.2,7/5/2022,4.3,Active
+432,HP Galaxy S24 Ultra,10,172,HP,23890.59,36961.49,8/29/2025,3.4,Active
+433,Urban Ladder Study Table,2,79,Urban Ladder,29379.12,39186.34,1/30/2025,4.9,
+434,Tata Green Tea,15,51,Tata,57901.32,67924.03,2/23/2022,3.9,Active
+435,IKEA Bookshelf,20,83,IKEA,37301.81,50252.06,4/19/2023,4.4,Active
+436,Sony Gaming Mouse,1,128,Sony,34712.49,53364.92,3/7/2023,4.9,Active
+437,Urban Ladder Coffee Table,2,74,Urban Ladder,57613.42,69388.09,4/27/2025,4.3,Active
+438,IKEA Office Chair,20,73,IKEA,54622.53,72336.51,9/16/2025,4.1,Active
+439,Godrej Coffee Table,20,172,Godrej,50437.42,70396.63,3/25/2022,4.7,Active
+440,Van Heusen Sports Jacket,12,162,Van Heusen,50420.09,65375.95,10/29/2021,3.6,Active
+441,Funskool Puzzle Set,18,181,Funskool,57205.9,91140.69,5/25/2023,3.3,Active
+442,Lego Remote Control Car,9,130,Lego,13542.8,14911.1,12/31/2021,3.2,Active
+443,Nilkamal Wardrobe,11,158,Nilkamal,51838.97,82725.66,12/14/2024,4,active
+444,Amul Organic Honey,15,80,Amul,21524.83,25735.17,7/13/2021,3.7,Active
+445,Philips Air Purifier,4,37,Philips,37793.39,45789.67,8/2/2024,4.1,Active
+446,Lakme Perfume,14,56,Lakme,15687.91,19340.76,2/28/2021,4.1,Active
+447,Penguin Statistics Essentials,8,156,Penguin,54217.14,63838.39,1/2/2021,3.4,Active
+448,Yonex Yoga Mat,16,163,Yonex,49079,70995.78,11/27/2022,4.5,Active
+449,Havells Air Fryer,4,160,Havells,54715.44,75850.72,5/23/2024,3.2,Active
+450,Godrej Coffee Table,20,57,Godrej,9739.15,12094.07,7/1/2023,3.7,Active
+451,McGraw Hill Statistics Essentials,8,101,McGraw Hill,39121.01,45909.95,6/2/2022,3.7,Active
+452,Maybelline Body Lotion,14,83,Maybelline,51602.16,79374.86,2/23/2024,3.9,Active
+453,Nivea Perfume,14,71,Nivea,2431.13,3463.74,10/16/2023,5,Active
+454,Penguin Python for Data Analysis,8,58,Penguin,32254.68,45414.8,7/21/2023,4.1,Active
+455,Lakme Face Wash,14,33,Lakme,15942.07,19881.04,7/10/2023,3.3,Active
+456,McGraw Hill Power BI Guide,8,66,McGraw Hill,52938.78,79109.25,5/7/2025,5,Active
+457,IKEA Office Chair,20,63,IKEA,21477.95,28361.41,10/14/2024,4.8,Active
+458,Yonex Yoga Mat,16,148,Yonex,24920.88,37177.5,12/28/2024,4.4,Active
+459,Acer Galaxy S24 Ultra,19,161,Acer,31475.14,40828.74,7/21/2021,4.1,Active
+460,Lego Action Figure,9,110,Lego,8776.9,9910.61,7/24/2023,4.2,Active
+461,Wilson Cricket Bat,7,156,Wilson,480.71,591.6,5/31/2024,3.9,Active
+462,Tata Organic Honey,6,29,Tata,23095.98,28067.78,5/24/2021,3.7,Active
+463,Aashirvaad Green Tea,15,189,Aashirvaad,17442.07,20004.01,6/24/2023,4.3,Active
+464,Fortune Olive Oil,15,1,Fortune,56310.33,75353.65,8/20/2024,3.5,Active
+465,Levi's Hoodie,3,22,Levi's,38886.72,60469.09,4/24/2021,4.6,Active
+466,Godrej Office Chair,11,142,Godrej,33359.46,50159.37,11/18/2025,4.9,Active
+467,Tata Olive Oil,6,27,Tata,39227.53,53088.36,8/14/2024,4,Active
+468,Amul Olive Oil,6,89,Amul,33442.67,40270.79,6/24/2021,3.7,Active
+469,Wilson Yoga Mat,7,200,Wilson,7786.72,11610.93,10/20/2023,3.4,Active
+470,Maybelline Shampoo,14,76,Maybelline,13077.67,17890.3,7/2/2024,4.4,Active
+471,Durian Coffee Table,20,157,Durian,10193.2,11822.89,12/9/2022,4.7,Active
+472,Funskool Building Blocks,9,174,Funskool,28164.14,39513.85,1/31/2024,5.8,Active
+473,Wilson Football,7,113,Wilson,50712.01,72857.48,2/21/2021,4.3,active
+474,Lego Building Blocks,9,89,Lego,32087.25,43364.09,1/21/2023,3.6,Active
+475,Apple Galaxy S24 Ultra,19,144,Apple,11004.92,12976.93,5/19/2024,4.9,Active
+476,Cosco Yoga Mat,7,3,Cosco,7393.69,11527.2,9/28/2023,4,Active
+477,LG Inspiron Laptop,19,124,LG,35108.6,52899.66,7/5/2025,3.5,Active
+478,Dell Gaming Mouse,1,17,Dell,34591.78,54630.82,12/12/2024,4.9,Active
+479,Nivea Lipstick,5,93,Nivea,22764.1,35666.56,9/3/2025,3.3,Active
+480,Apple Noise Cancelling Headphones,19,138,Apple,54179.48,85767.24,4/22/2025,4.3,Active
+481,Amul Basmati Rice,6,184,Amul,21068.98,33386.23,7/1/2025,3.5,Active
+482,Maybelline Shampoo,14,174,Maybelline,9297.39,13580.55,11/14/2021,4.6,Active
+483,Whirlpool Vacuum Cleaner,4,115,Whirlpool,10757.29,12671.14,7/1/2023,4.2,Active
+484,Puma Formal Shirt,12,8,Puma,17078.04,23748.97,9/14/2023,4.6,Active
+485,Whirlpool Air Purifier,13,9,Whirlpool,38798.01,59715.07,10/14/2022,3.7,Active
+486,McGraw Hill Statistics Essentials,8,16,McGraw Hill,20946.23,23970.37,4/8/2025,4.2,Active
+487,Philips Air Fryer,13,170,Philips,50111.27,70715.74,4/3/2024,4.6,Active
+488,Maybelline Shampoo,5,72,Maybelline,28293.47,45230.13,8/26/2024,3.5,Active
+489,Hasbro Remote Control Car,18,89,Hasbro,13428.24,15452.06,5/3/2021,3.9,Active
+490,Nivea Lipstick,5,19,Nivea,36100.12,51675.95,11/15/2025,4.9,Active
+491,Nilkamal Office Chair,11,2,Nilkamal,24041.44,27039.88,7/18/2024,3.8,Active
+492,Durian Coffee Table,2,191,Durian,30832.2,38404.37,8/14/2024,4,Active
+493,Whirlpool Air Fryer,4,144,Whirlpool,59572.53,93233.86,10/3/2023,3.7,Active
+494,Mamaearth Perfume,14,170,Mamaearth,31753.29,45589.04,4/7/2025,4.6,Active
+495,McGraw Hill Statistics Essentials,8,132,McGraw Hill,14137.87,16427.59,6/22/2024,5,Active
+496,Lenovo Gaming Mouse,1,172,Lenovo,40936.4,64310.35,3/7/2021,4.3,active
+497,JBL OLED TV,10,84,JBL,33652.09,49302.08,2/12/2023,4.7,Active
+498,Wilson Yoga Mat,16,110,Wilson,57673.15,66432.84,12/28/2022,4.5,
+499,HarperCollins Statistics Essentials,8,176,HarperCollins,34841.41,42285.9,9/10/2021,3.4,Active
+500,JBL Smart Watch,0,134,JBL,3914.69,4306.56,10/22/2023,4.2,Active
+501,Lenovo Inspiron Laptop,0,13,Lenovo,40116.71,61416.67,5/14/2023,5.8,Active
+502,Dell Inspiron Laptop,0,119,Dell,29414.01,42656.63,12/14/2022,3.5,Active
+503,Lego Puzzle Set,9,18,Lego,13868.21,18509.9,3/11/2021,4.7,Active
+504,McGraw Hill Python for Data Analysis,17,69,McGraw Hill,55318.53,73118.61,11/17/2023,3.7,Active
+505,Acer OLED TV,10,38,Acer,59157.2,73475.88,2/9/2023,4,Active
+506,Nike Sneakers,12,152,Nike,16626.02,19893.01,5/3/2024,4.1,Active
+507,Fortune Organic Honey,6,80,Fortune,18582.52,22998.12,8/13/2022,4.6,Active
+508,Asus Inspiron Laptop,10,162,Asus,425.54,524.9,11/10/2023,4.6,Active
+509,Samsung OLED TV,1,197,Samsung,32604.13,40098.05,1/15/2021,3.3,Active
+510,Fortune Organic Honey,6,93,Fortune,46613.74,62516.4,4/1/2023,4.4,Active
+511,Tata Green Tea,15,80,Tata,18821.31,25677.04,9/9/2022,4.8,Active
+512,Dell Smart Watch,1,68,Dell,27089.4,42158.27,5/27/2024,4.5,Active
+513,McGraw Hill Power BI Guide,17,151,McGraw Hill,582.35,643.89,6/26/2023,3.9,Active
+514,Yonex Cricket Bat,7,62,Yonex,42874.5,52397.49,1/18/2024,4,Active
+515,Nestle Green Tea,6,92,Nestle,43097.1,48274.9,9/24/2022,4.9,Active
+516,Penguin Statistics Essentials,17,115,Penguin,43051.34,64140.81,2/26/2022,3.6,Active
+517,Levi's Formal Shirt,12,39,Levi's,33715.36,41990.43,6/16/2022,4.4,Active
+518,LG Bluetooth Speaker,1,56,LG,50530.31,56834.8,5/2/2025,4.1,Active
+519,Acer Galaxy S24 Ultra,10,160,Acer,4591.5,6867.97,12/21/2021,4,Active
+520,Hasbro Action Figure,9,1,Hasbro,46698.05,73724.08,8/30/2023,4.4,Active
+521,Sony Gaming Mouse,10,105,Sony,14764.27,21629.59,10/18/2025,4.8,Active
+522,Van Heusen Sports Jacket,12,150,Van Heusen,56044.76,76639.35,4/22/2023,3.6,Active
+523,Nivia Yoga Mat,16,26,Nivia,19817.94,26613.85,9/4/2024,4.4,Active
+524,Sony Galaxy S24 Ultra,19,66,Sony,44640.9,67403.65,3/27/2025,3.4,Active
+525,Nestle Organic Honey,6,116,Nestle,6186.92,9137.49,11/2/2022,3.9,Active
+526,Yonex Cricket Bat,16,188,Yonex,211.09,319.81,3/21/2021,3.6,Active
+527,Yonex Football,7,134,Yonex,6044.71,8996.71,1/28/2023,3.9,Active
+528,Amul Olive Oil,6,70,Amul,18351.35,27309.31,11/25/2025,4.4,Active
+529,Sony Gaming Mouse,19,117,Sony,53880.96,77044.41,3/29/2023,3.9,Active
+530,McGraw Hill SQL Cookbook,17,163,McGraw Hill,12510.77,15569.54,4/17/2022,4,Active
+531,LG Galaxy S24 Ultra,19,2,LG,25688.95,35308.9,12/17/2022,3.4,Active
+532,McGraw Hill SQL Cookbook,8,3,McGraw Hill,33302.9,50447.82,5/1/2024,4.7,Active
+533,Penguin Statistics Essentials,17,65,Penguin,12512.82,15755.46,6/21/2023,4,Active
+534,Lenovo Bluetooth Speaker,1,89,Lenovo,42629.76,67364.15,4/17/2022,4.6,Active
+535,Amul Almonds,6,151,Amul,26221.66,36208.01,4/5/2024,3.6,Active
+536,Funskool Puzzle Set,18,170,Funskool,16122.03,19879.22,2/26/2023,3.5,Active
+537,Whirlpool Microwave Oven,13,170,Whirlpool,55321.37,61104.66,2/1/2021,4.7,Active
+538,Allen Solly Running Shoes,12,114,Allen Solly,58037.95,84846.41,4/29/2022,3.5,Active
+539,Levi's Slim Fit Jeans,12,140,Levi's,6840.28,10429.1,1/11/2023,4.1,Active
+540,Van Heusen Sneakers,12,3,Van Heusen,22719.94,33146.03,7/28/2025,4.5,Active
+541,Philips Vacuum Cleaner,4,82,Philips,5802.38,4641.9,5/22/2024,3.3,Active
+542,LG Inspiron Laptop,1,140,LG,8354.82,11746.41,9/2/2025,3.7,Active
+543,IKEA Dining Table,11,130,IKEA,3969.9,4558.54,4/5/2024,3.8,Active
+544,Lakme Perfume,5,192,Lakme,11151.39,16497.33,2/9/2021,4.5,Active
+545,Funskool Action Figure,9,113,Funskool,42547.7,66643.12,9/30/2022,4.6,Active
+546,Urban Ladder Coffee Table,2,80,Urban Ladder,30713.94,42025.11,8/29/2021,4.9,Active
+547,Wilson Badminton Racket,16,143,Wilson,13201.75,10561.4,8/21/2024,4.5,Active
+548,IKEA Bookshelf,2,189,IKEA,1588.11,2438.05,8/5/2024,4.7,Active
+549,Durian Office Chair,2,92,Durian,8197.32,12068.53,11/19/2023,4.7,Active
+550,Funskool Building Blocks,18,39,Funskool,40944.65,50667.82,11/19/2023,4.8,Active
+551,Amul Olive Oil,6,114,Amul,16133.92,20900.97,9/1/2024,4.1,Active
+552,Aashirvaad Olive Oil,6,128,Aashirvaad,28960.27,36795.75,4/2/2024,3.4,Active
+553,McGraw Hill Python for Data Analysis,17,192,McGraw Hill,17989.21,27392.45,12/6/2025,3.9,
+554,Urban Ladder Study Table,2,107,Urban Ladder,56845.25,90864.62,2/20/2025,4.7,Active
+555,Asus Mechanical Keyboard,1,56,Asus,41621.25,45906.55,2/14/2025,3.9,Active
+556,Durian Coffee Table,20,108,Durian,12628.86,17359.29,8/12/2025,0,Active
+557,Amul Green Tea,15,95,Amul,20610.53,28588.5,6/3/2025,4.8,Active
+558,McGraw Hill Statistics Essentials,17,29,McGraw Hill,38220.79,50870.34,8/4/2025,3.8,Active
+559,LG Galaxy S24 Ultra,1,172,LG,38383,53419.12,12/15/2022,4,Active
+560,HP Mechanical Keyboard,1,185,HP,19397.44,26216.63,6/14/2023,3.7,Active
+561,Puma Hoodie,3,54,Puma,40633.73,53212.87,11/7/2022,3.3,Active
+562,Urban Ladder Dining Table,20,136,Urban Ladder,50281.05,79912.36,6/9/2021,4.9,Active
+563,Aashirvaad Organic Honey,15,57,Aashirvaad,13603.98,18697.86,2/8/2023,4.7,Active
+564,Whirlpool Air Fryer,13,198,Whirlpool,12305.58,16533.41,11/20/2024,3.7,Active
+565,Penguin Statistics Essentials,17,44,Penguin,53364.48,71408.79,11/3/2024,3.8,Active
+566,Lenovo Bluetooth Speaker,10,38,Lenovo,33412.41,46484.58,9/3/2022,4.4,Active
+567,Allen Solly Slim Fit Jeans,3,54,Allen Solly,28468.53,33107.01,7/28/2021,4.3,Active
+568,Asus Bluetooth Speaker,1,170,Asus,51102.12,40881.7,2/13/2023,3.2,Actve
+569,Hasbro Building Blocks,9,85,Hasbro,22284.07,30319.98,7/3/2022,4,Active
+570,Penguin Statistics Essentials,17,186,Penguin,21898.93,26108.75,7/13/2023,4.4,Active
+571,Penguin SQL Cookbook,8,106,Penguin,6745.28,7799.68,9/25/2021,3.5,Active
+572,Bosch Vacuum Cleaner,13,152,Bosch,45018.08,57123.81,7/12/2023,3.3,Active
+573,Samsung Smart Watch,1,155,Samsung,13497.09,19254.86,2/3/2024,4.8,Active
+574,Lenovo Noise Cancelling Headphones,19,163,Lenovo,51608.66,79334.89,9/23/2024,4.4,Active
+575,Tata Organic Honey,15,20,Tata,57579.51,92125.78,11/7/2022,4.6,Active
+576,HarperCollins Python for Data Analysis,17,140,HarperCollins,23272.82,26368.53,7/25/2025,3.7,Active
+577,Lakme Perfume,5,130,Lakme,28449.86,34179.38,11/29/2021,3.3,active
+578,Durian Study Table,2,112,Durian,16308.62,21436.41,9/16/2022,4.5,Active
+579,Amul Basmati Rice,15,184,Amul,43429.49,57099.07,11/7/2024,3.2,Active
+580,HP Mechanical Keyboard,10,14,HP,49173.04,78443.52,3/22/2024,3.5,Active
+581,HP OLED TV,1,75,HP,17274.54,20140.29,12/23/2022,4.4,Active
+582,Tata Almonds,15,22,Tata,21026.42,25077.92,5/14/2022,4.2,Active
+583,JBL Bluetooth Speaker,1,29,JBL,21978.81,24957.86,4/28/2022,3.8,Active
+584,Acer Inspiron Laptop,19,115,Acer,54779.8,43823.84,4/25/2022,3.5,Active
+585,Lenovo Galaxy S24 Ultra,10,26,Lenovo,21226.42,28208.05,8/14/2024,4.5,Active
+586,Funskool Action Figure,18,90,Funskool,28258.36,36449.08,4/4/2024,4.7,Active
+587,Amul Almonds,15,200,Amul,32514.15,50289.5,9/1/2021,3.7,Active
+588,Havells Air Purifier,4,147,Havells,49671.8,62389.43,4/17/2021,5,Active
+589,Samsung Inspiron Laptop,10,135,Samsung,31226.5,35644.72,7/4/2022,3.9,Active
+590,Wilson Badminton Racket,16,146,Wilson,17713.19,21622.68,7/14/2025,3.5,Active
+591,Funskool Building Blocks,18,146,Funskool,44519.63,50750.01,8/26/2024,4.9,Active
+592,IFB Air Purifier,4,54,IFB,27174.46,37776.15,2/23/2024,3.6,Active
+593,Urban Ladder Bookshelf,2,26,Urban Ladder,780.79,1203.45,11/6/2025,3.7,Active
+594,Nestle Organic Honey,6,97,Nestle,29950.36,42476.97,6/12/2025,3.6,Active
+595,Hasbro Action Figure,18,11,Hasbro,44338.83,60028.79,12/28/2024,4.1,Active
+596,Funskool Puzzle Set,18,177,Funskool,48946.11,55658.85,10/7/2024,4.7,Active
+597,Tata Olive Oil,6,195,Tata,19975.72,24632.38,4/11/2022,4.3,Active
+598,Lakme Shampoo,14,48,Lakme,2777.47,4340.15,8/17/2024,3.4,Active
+599,Lakme Face Wash,5,29,Lakme,43524.76,53785.83,6/4/2022,3.3,Active
+600,Lenovo Inspiron Laptop,1,192,Lenovo,51948.95,64310.08,2/20/2023,3.3,Active
+601,HarperCollins Power BI Guide,17,97,HarperCollins,4619.43,5174.83,10/12/2022,3.4,Active
+602,Adidas Running Shoes,12,35,Adidas,8880.94,13111.96,4/8/2025,3.4,Active
+603,IKEA Bookshelf,2,156,IKEA,49205.12,77115.97,11/7/2021,4.4,Active
+604,McGraw Hill SQL Cookbook,17,163,McGraw Hill,33377.04,43745.15,2/15/2025,4.3,Active
+605,McGraw Hill SQL Cookbook,17,94,McGraw Hill,14098.54,21379.39,6/1/2028,4.1,Active
+606,Nivia Football,16,107,Nivia,24632.15,30037.26,6/5/2022,3.5,Active
+607,Nestle Basmati Rice,6,147,Nestle,730.77,1006.14,3/19/2023,4.7,Active
+608,Bosch Air Purifier,4,94,Bosch,50445.49,74741.2,6/29/2023,3.9,Active
+609,Mamaearth Perfume,5,161,Mamaearth,9290.8,13598.42,1/1/2022,4,Active
+610,Puma Running Shoes,3,9,Puma,44234.55,50305.15,3/11/2024,3.9,Active
+611,Acer Mechanical Keyboard,10,24,Acer,38161.19,50480.9,9/8/2022,3.4,Active
+612,JBL iPhone 15 Pro,19,158,JBL,24373.23,37027.06,1/2/2022,3.8,Active
+613,Nivea Face Wash,5,4,Nivea,37167.87,46806.56,4/22/2025,4.6,Active
+614,Lakme Body Lotion,14,103,Lakme,3139,4125.89,5/13/2023,3.7,Active
+615,Apple Galaxy S24 Ultra,19,71,Apple,41830.36,61122.71,1/18/2023,4.6,Active
+616,IKEA Coffee Table,11,32,IKEA,400.37,499.15,11/30/2024,4.9,
+617,Bosch Microwave Oven,4,128,Bosch,30746.83,24597.46,6/19/2025,3.5,Active
+618,Sony Gaming Mouse,19,193,Sony,2509.77,3019.34,1/7/2022,4.7,Active
+619,Lakme Shampoo,5,101,Lakme,30117.84,38008.07,7/23/2021,4.4,Active
+620,McGraw Hill Power BI Guide,8,197,McGraw Hill,23654.47,35249.18,7/12/2021,4.5,Active
+621,Lego Puzzle Set,18,151,Lego,4708.29,6096.67,1/26/2021,4.4,Active
+622,Tata Green Tea,15,183,Tata,38552.73,61040.25,5/24/2022,3.5,Active
+623,Acer Galaxy S24 Ultra,19,36,Acer,59757,84930.1,3/15/2023,4.7,Active
+624,HarperCollins Power BI Guide,8,128,HarperCollins,7199.39,11401.98,8/4/2024,3.5,Active
+625,Penguin Statistics Essentials,8,12,Penguin,25773.25,39012.6,2/17/2025,3.7,Active
+626,L'Oréal Perfume,5,69,L'Oréal,2626.87,3160.76,11/22/2024,3.2,Active
+627,Adidas Hoodie,12,42,Adidas,8501.35,11611.56,6/30/2025,4.9,Active
+628,Yonex Badminton Racket,16,23,Yonex,25129.88,40072.6,7/1/2022,5,Active
+629,Acer OLED TV,10,115,Acer,1911.82,2448.27,2/18/2025,4.8,active
+630,Samsung Mechanical Keyboard,19,59,Samsung,1137.07,1284.09,3/31/2025,4.6,
+631,Whirlpool Air Fryer,4,11,Whirlpool,21723.88,27524.4,1/6/2021,4.6,Active
+632,Tata Basmati Rice,15,112,Tata,12622.52,15088.35,7/25/2025,4.7,active
+633,Bosch Microwave Oven,4,195,Bosch,8941.51,13310.25,3/13/2022,4.6,Active
+634,Nestle Green Tea,6,116,Nestle,43638.26,68937.8,6/6/2024,4.2,active
+635,Durian Wardrobe,20,145,Durian,18828.46,29801.24,11/6/2022,3.4,Active
+636,Penguin Python for Data Analysis,8,177,Penguin,40171.54,44634.49,1/7/2021,3.7,Active
+637,Penguin SQL Cookbook,8,95,Penguin,37461.83,45784.46,10/15/2024,5,Active
+638,Wilson Football,7,110,Wilson,47861.65,66282.38,9/2/2022,4.6,Active
+639,Whirlpool Mixer Grinder,13,76,Whirlpool,17089.69,24178.99,5/7/2021,3.9,Active
+640,IKEA Study Table,2,104,IKEA,44700.77,58182.35,12/6/2021,4.8,Active
+641,Lenovo Gaming Mouse,19,15,Lenovo,49232.59,67543.07,8/20/2025,4.3,Inactive
+642,L'Oréal Face Wash,5,88,L'Oréal,23403.95,26788.93,3/24/2021,4.1,Active
+643,Mamaearth Body Lotion,5,90,Mamaearth,13596.54,15491.16,9/19/2024,4.3,Active
+644,Cosco Football,7,113,Cosco,23759.57,28967.5,12/12/2023,3.8,Active
+645,Havells Air Purifier,13,191,Havells,23836.54,30730.77,4/29/2023,4,Active
+646,Amul Green Tea,6,70,Amul,38576.92,46483.62,1/17/2024,4,Active
+647,Levi's Formal Shirt,12,122,Levi's,820.79,979.51,3/7/2025,4.8,Active
+648,Hasbro Building Blocks,18,29,Hasbro,38849.98,61334.16,10/20/2021,4.7,Active
+649,Asus Inspiron Laptop,19,133,Asus,49856.15,68365.22,11/17/2025,3.9,Active
+650,Dell Inspiron Laptop,1,133,Dell,2635.59,3086.06,2/24/2025,3.7,Active
+651,Whirlpool Air Fryer,13,119,Whirlpool,18781.43,27345.93,2/9/2025,3.3,Active
+652,Penguin SQL Cookbook,8,80,Penguin,15609.8,21252.15,4/8/2021,4.7,Active
+653,IFB Air Purifier,4,30,IFB,56582.39,89498.7,7/31/2025,3.5,Active
+654,IKEA Dining Table,2,80,IKEA,38160.7,55874.61,1/13/2025,5,Active
+655,Nilkamal Coffee Table,11,97,Nilkamal,10226.55,11429.77,12/14/2023,4.7,Active
+656,Aashirvaad Olive Oil,15,123,Aashirvaad,27780.79,36495.07,11/15/2024,4.9,Active
+657,Nike Running Shoes,3,54,Nike,4650.74,6406.41,5/23/2023,4.3,Active
+658,Puma Sneakers,12,44,Puma,30876.48,43187.76,2/1/2022,4,
+659,Nivia Badminton Racket,16,79,Nivia,39439.51,48547.1,4/1/2023,4.2,Active
+660,L'Oréal Lipstick,14,130,L'Oréal,25641.55,33841.79,2/14/2021,3.3,Active
+661,Nilkamal Study Table,11,170,Nilkamal,56446.5,88524.44,10/21/2021,4.1,Active
+662,Wilson Yoga Mat,16,98,Wilson,38855.25,49836.41,8/5/2024,4.5,Active
+663,Havells Microwave Oven,13,52,Havells,966,1249.44,2/12/2025,4.6,Active
+664,Adidas Running Shoes,3,156,Adidas,3025.64,3633.55,6/28/2023,3.4,Active
+665,IFB Mixer Grinder,13,179,IFB,12331.09,15839.71,4/28/2021,4.1,Active
+666,Samsung Galaxy S24 Ultra,10,157,Samsung,53720.01,61970.77,10/23/2021,4.2,Active
+667,Mamaearth Face Wash,5,170,Mamaearth,32741.54,37057.87,5/31/2024,3.6,Active
+668,IFB Microwave Oven,4,135,IFB,39241.95,54629.17,6/6/2024,4.1,Active
+669,Havells Vacuum Cleaner,13,82,Havells,52493.48,69356.34,6/28/2022,4.3,Active
+670,IKEA Coffee Table,11,63,IKEA,6564.02,7650.77,8/31/2025,3.4,Active
+671,LG Smart Watch,19,188,LG,612.67,490.14,11/6/2022,4.9,Active
+672,Dell Bluetooth Speaker,1,182,Dell,27854.78,40434.19,8/24/2021,3.9,Active
+673,Urban Ladder Office Chair,2,38,Urban Ladder,41935.19,66098.82,8/11/2023,4.3,Active
+674,Nilkamal Bookshelf,2,106,Nilkamal,39585.3,63056.66,3/15/2025,4.9,Active
+675,IKEA Office Chair,20,25,IKEA,34686.67,51476.8,1/21/2025,3.8,Active
+676,Yonex Badminton Racket,16,160,Yonex,52881.83,59758.12,8/11/2024,3.6,ACTIVE
+677,Lakme Face Wash,14,198,Lakme,50404.53,79660.17,10/5/2024,4.3,Active
+678,HarperCollins SQL Cookbook,17,9,HarperCollins,24007.29,27903.69,2/12/2021,3.8,Active
+679,Hasbro Remote Control Car,9,152,Hasbro,619.89,881.13,8/4/2023,3.5,Active
+680,HarperCollins SQL Cookbook,17,90,HarperCollins,41529.7,57851.9,10/26/2025,4.7,Active
+681,Puma Hoodie,12,141,Puma,43087.75,51195.14,5/31/2023,4.6,Active
+682,Wilson Football,16,78,Wilson,33783.68,27026.94,10/21/2025,3.3,Active
+683,Philips Vacuum Cleaner,4,116,Philips,58601.66,84918.64,12/27/2022,4.6,Active
+684,Adidas Sports Jacket,12,158,Adidas,1752.23,2779.09,5/7/2023,3.5,ACTIVE
+685,Allen Solly Slim Fit Jeans,3,81,Allen Solly,39742.31,59483.49,1/14/2021,4.7,Active
+686,LG Smart Watch,10,98,LG,41550.38,50507.39,10/11/2023,4,Active
+687,Lenovo OLED TV,19,33,Lenovo,17249.43,23926.77,12/17/2022,4.2,Active
+688,Mamaearth Face Wash,5,138,Mamaearth,544.56,749.61,7/1/2025,4.5,Active
+689,Aashirvaad Green Tea,6,67,Aashirvaad,22149.15,34941.08,9/2/2023,3.3,Active
+690,HarperCollins Python for Data Analysis,17,92,HarperCollins,57528.92,79349.09,1/9/2022,3.6,Active
+691,McGraw Hill SQL Cookbook,8,148,McGraw Hill,52428.1,69561.44,6/23/2023,4.7,Active
+692,Lego Remote Control Car,9,86,Lego,4559.52,7064.29,6/4/2021,3.6,Active
+693,Tata Organic Honey,15,144,Tata,40076.4,54697.36,3/18/2022,3.6,Active
+694,Lego Action Figure,9,49,Lego,58191.64,66785.55,10/15/2023,4.3,Active
+695,IFB Air Purifier,13,172,IFB,16869.56,26734.78,5/12/2021,3.3,Active
+696,Yonex Cricket Bat,7,186,Yonex,27626.13,35190.86,7/27/2023,4.5,Active
+697,Funskool Building Blocks,9,84,Funskool,23061.64,36661.13,2/6/2023,3.9,Active
+698,Asus Mechanical Keyboard,10,134,Asus,6923.12,9920.21,2/18/2023,4.1,Active
+699,Godrej Dining Table,20,147,Godrej,13193.84,14923.74,4/15/2022,4.9,Active
+700,Havells Air Fryer,13,153,Havells,25661.37,28613.48,3/9/2024,3.5,Active
+701,Urban Ladder Bookshelf,11,120,Urban Ladder,22253.39,24743.53,7/10/2025,4.7,Active
+702,HarperCollins Python for Data Analysis,8,41,HarperCollins,41164.93,64255.07,2/19/2024,4.9,Active
+703,Lego Action Figure,9,158,Lego,47552.39,53172.29,11/19/2021,3.4,Active
+704,Cosco Football,7,84,Cosco,32821.67,50945.25,7/24/2023,4.2,Active
+705,Maybelline Perfume,14,95,Maybelline,34833.88,47285.13,3/11/2024,5.8,Active
+706,Nestle Green Tea,15,153,Nestle,15115.06,17206.46,4/21/2023,3.7,Active
+707,Allen Solly Formal Shirt,12,121,Allen Solly,33869.02,48549.14,6/29/2022,3.5,Active
+708,Bosch Vacuum Cleaner,13,80,Bosch,37036.81,47461.47,9/5/2025,4.3,Active
+709,Urban Ladder Bookshelf,2,28,Urban Ladder,7380.85,9928.89,9/28/2025,3.6,Active
+710,Apple Galaxy S24 Ultra,1,100,Apple,27164.19,31918.54,5/20/2022,4.3,Active
+711,Nike Running Shoes,3,67,Nike,25917.31,28641.29,5/4/2021,4.6,Active
+712,Yonex Badminton Racket,7,178,Yonex,15888.82,20348.04,11/14/2023,3.5,Active
+713,Puma Hoodie,3,39,Puma,8004.39,9074.93,6/28/2024,3.4,Active
+714,Urban Ladder Office Chair,20,66,Urban Ladder,38671.53,60170.19,10/29/2025,0,Active
+715,Aashirvaad Olive Oil,6,84,Aashirvaad,48785.53,72714.9,6/19/2022,3.6,Active
+716,Philips Microwave Oven,13,2,Philips,5800.56,9113.82,10/20/2023,4.7,active
+717,L'Oréal Body Lotion,5,185,L'Oréal,4205.21,5085.07,1/25/2024,4.4,Active
+718,Aashirvaad Olive Oil,6,23,Aashirvaad,3329.14,5020.06,2/15/2022,3.9,Active
+719,Lenovo Inspiron Laptop,19,132,Lenovo,13744.61,15894.13,9/26/2022,4.7,Active
+720,Wilson Badminton Racket,16,93,Wilson,1362.62,2122.9,7/18/2024,3.5,Active
+721,Hasbro Action Figure,9,116,Hasbro,56807.7,64664.91,9/10/2024,4.1,Active
+722,Philips Microwave Oven,13,129,Philips,45317.18,67326.15,5/11/2021,3.6,Active
+723,Durian Study Table,20,143,Durian,10007.54,11287.3,2/4/2021,4.2,Active
+724,McGraw Hill SQL Cookbook,17,13,McGraw Hill,58753.73,66186.1,9/28/2023,4.6,Active
+725,Puma Running Shoes,3,76,Puma,7881.81,10567.52,3/26/2024,4,Active
+726,IFB Mixer Grinder,4,28,IFB,49661.65,60259.52,8/19/2025,4.9,Active
+727,Urban Ladder Study Table,20,156,Urban Ladder,44574.28,50060.35,11/8/2025,4.8,Active
+728,Apple Galaxy S24 Ultra,1,120,Apple,46843.12,53887.58,5/22/2022,3.3,Active
+729,Philips Vacuum Cleaner,4,50,Philips,9777.1,13046.01,11/13/2023,4.5,Active
+730,Wilson Yoga Mat,7,53,Wilson,41195.65,54942.06,3/4/2022,3.7,Active
+731,Samsung iPhone 15 Pro,10,80,Samsung,24969.15,36014.53,4/25/2022,3.3,Active
+732,Penguin Statistics Essentials,8,165,Penguin,17370.62,27551.47,11/5/2024,4.3,Active
+733,Cosco Badminton Racket,7,64,Cosco,19353.98,21401.42,8/20/2023,5,Active
+734,Godrej Dining Table,20,183,Godrej,37689.03,51461.02,11/21/2024,3.9,Active
+735,Asus Inspiron Laptop,19,11,Asus,23552.56,28042.05,8/9/2024,5,Active
+736,Adidas Running Shoes,12,7,Adidas,57506.93,84907.08,2/25/2024,4.2,Active
+737,Durian Coffee Table,2,125,Durian,6381.26,7370.95,5/22/2022,4.4,Active
+738,Amul Organic Honey,15,62,Amul,30285.17,44221.72,9/25/2022,3.6,Active
+739,IKEA Wardrobe,11,47,IKEA,20770.11,32749.85,9/24/2025,4.7,Active
+740,McGraw Hill Python for Data Analysis,17,20,McGraw Hill,10074.89,13001.41,4/24/2022,4.8,Active
+741,Funskool Building Blocks,9,13,Funskool,27452.2,40050.18,3/10/2025,3.7,Active
+742,Nilkamal Wardrobe,20,80,Nilkamal,49442.2,77676.92,7/9/2023,3.6,Active
+743,JBL Inspiron Laptop,10,39,JBL,48840.25,74249.3,7/14/2023,4.9,Active
+744,Hasbro Puzzle Set,9,155,Hasbro,58385.68,66091.49,11/20/2023,4.2,Active
+745,Hasbro Remote Control Car,9,166,Hasbro,57213.59,45770.87,3/21/2023,4,Active
+746,Penguin SQL Cookbook,8,73,Penguin,46040.46,70965.83,2/1/2028,4.5,Active
+747,Aashirvaad Almonds,15,133,Aashirvaad,45500.27,60200.27,10/20/2025,3.7,Active
+748,Amul Organic Honey,15,47,Amul,54518.44,66290.35,11/22/2022,3.8,Active
+749,Allen Solly Sports Jacket,3,194,Allen Solly,15592.35,20204.08,8/8/2025,3.9,Active
+750,Allen Solly Sneakers,3,34,Allen Solly,57302.57,77102.91,1/3/2023,3.4,Active
+751,Puma Sneakers,3,41,Puma,17773.72,24296.19,7/7/2022,4,Active
+752,Lego Action Figure,9,20,Lego,19141.1,21190.35,1/11/2021,3.9,Active
+753,Nivea Perfume,5,24,Nivea,17675.55,20241.36,7/6/2021,4,Active
+754,Philips Air Purifier,4,121,Philips,9434.98,13541.07,9/11/2021,4.1,Active
+755,Lego Puzzle Set,9,97,Lego,20194.62,22568.97,5/22/2023,4.2,Active
+756,HP iPhone 15 Pro,10,178,HP,27560.17,31170.78,6/9/2024,4.7,Active
+757,Cosco Football,7,66,Cosco,26590.04,31854.65,11/14/2024,3.3,Active
+758,Nestle Olive Oil,15,184,Nestle,56351.5,70939.11,2/17/2021,4.5,Active
+759,Nilkamal Dining Table,20,194,Nilkamal,54746.7,69126.97,3/6/2023,3.8,Active
+760,Nivea Lipstick,14,83,Nivea,7053.62,10802.55,4/12/2021,4.9,Active
+761,McGraw Hill Statistics Essentials,17,114,McGraw Hill,2923.46,3876.43,6/4/2024,3.2,Active
+762,IKEA Wardrobe,20,6,IKEA,46116.18,56641.09,1/24/2021,4.9,Active
+763,L'Oréal Perfume,5,103,L'Oréal,13934.82,20508.34,6/17/2025,5,Active
+764,Mamaearth Body Lotion,14,76,Mamaearth,1595,2443.18,9/19/2022,4.9,Active
+765,Acer Smart Watch,10,67,Acer,7788.26,11989.74,12/23/2023,4.2,Active
+766,Funskool Action Figure,9,196,Funskool,22509.48,27815.69,7/25/2023,4.1,Active
+767,Lakme Perfume,5,55,Lakme,33854.85,48896.43,6/21/2025,3.6,Active
+768,IFB Vacuum Cleaner,4,105,IFB,1879.42,2947.64,1/4/2025,3.3,ACTIVE
+769,Hasbro Action Figure,18,180,Hasbro,3689.85,5485.02,1/4/2025,4.3,Active
+770,Whirlpool Vacuum Cleaner,13,59,Whirlpool,4347.9,6441.66,5/11/2021,4.1,Active
+771,Amul Almonds,15,166,Amul,33695.79,44542.68,7/3/2023,4,Active
+772,Yonex Yoga Mat,7,89,Yonex,46655.2,58190.61,1/22/2025,3.3,Active
+773,Urban Ladder Office Chair,11,21,Urban Ladder,28132.61,32330,6/22/2021,4,Actve
+774,Levi's Hoodie,3,19,Levi's,21285.42,31667.08,6/17/2022,4.7,Active
+775,Puma Formal Shirt,12,164,Puma,43722.35,67915.26,6/28/2025,4.2,Active
+776,Wilson Badminton Racket,7,9,Wilson,34322.03,37772.23,4/12/2024,3.4,Active
+777,Nestle Green Tea,15,178,Nestle,59664.84,84127.83,9/17/2024,3.8,Active
+778,Nilkamal Dining Table,11,147,Nilkamal,37296.94,56217.25,7/16/2021,4.5,Active
+779,Van Heusen Running Shoes,3,127,Van Heusen,7258.87,9529.7,12/19/2021,3.6,Active
+780,Penguin Power BI Guide,8,130,Penguin,54165.01,79850.76,3/20/2021,3.9,Active
+781,Funskool Action Figure,9,191,Funskool,1657.48,2448.53,3/24/2024,5,Active
+782,Wilson Cricket Bat,7,82,Wilson,5557.09,6242.04,5/5/2021,4.1,Active
+783,Funskool Puzzle Set,9,175,Funskool,4497.89,5011.97,8/31/2024,4.7,Active
+784,Durian Dining Table,2,135,Durian,2505.96,3808.66,3/6/2022,4.8,
+785,LG Gaming Mouse,1,123,LG,9968.6,12485.87,1/12/2022,3.3,Active
+786,IKEA Study Table,20,48,IKEA,33444.65,48377.7,1/30/2022,4,Active
+787,Aashirvaad Organic Honey,15,123,Aashirvaad,53421.9,75369.23,7/2/2022,3.7,Active
+788,Lego Puzzle Set,9,59,Lego,48798.78,54342.23,12/24/2023,3.3,Active
+789,Tata Organic Honey,15,130,Tata,20590.99,26660.08,9/27/2022,3.5,Active
+790,Nilkamal Bookshelf,20,2,Nilkamal,8705.81,9641.48,12/22/2023,3.3,Active
+791,Godrej Coffee Table,20,189,Godrej,46848.78,67463.97,8/16/2024,3.4,Active
+792,Wilson Football,16,23,Wilson,36508.28,54008.51,6/4/2025,3.9,Active
+793,Funskool Puzzle Set,9,14,Funskool,50584.36,57791.9,2/14/2021,3.4,Active
+794,Puma Running Shoes,12,73,Puma,26746.37,29807.69,9/18/2021,3.7,Active
+795,Fortune Organic Honey,6,2,Fortune,11353.95,14416.95,9/6/2022,3.5,Active
+796,Nivia Football,16,40,Nivia,50399.63,76718.92,11/22/2021,4.4,Active
+797,Mamaearth Face Wash,14,150,Mamaearth,30494.22,37277.47,12/15/2024,4.3,Active
+798,IKEA Coffee Table,11,128,IKEA,19311.19,28381.25,2/4/2025,4.4,Active
+799,L'Oréal Perfume,14,85,L'Oréal,43973.85,55097.55,7/28/2022,4.1,Active
+800,IFB Microwave Oven,4,146,IFB,13814.32,19573.02,4/4/2024,3.8,Active
+801,HarperCollins Power BI Guide,17,23,HarperCollins,21639.81,24204.39,8/17/2023,3.6,Active
+802,Bosch Air Fryer,4,70,Bosch,2549.19,3143.09,3/18/2023,4.7,Active
+803,Lakme Shampoo,5,137,Lakme,22819.29,18255.43,6/19/2025,3.9,Active
+804,Godrej Bookshelf,2,13,Godrej,53645.18,61371.47,5/21/2024,4.5,Active
+805,Mamaearth Lipstick,5,147,Mamaearth,36498.17,40914.56,6/1/2025,3.8,Active
+806,Maybelline Perfume,5,59,Maybelline,37643.26,46186.8,4/24/2022,4.2,Active
+807,Wilson Football,16,74,Wilson,43005.51,48992.78,3/17/2022,4.3,Active
+808,McGraw Hill Python for Data Analysis,17,30,McGraw Hill,51853.95,41483.16,5/13/2023,4.1,Active
+809,Nike Sneakers,3,177,Nike,57483.94,68947.09,6/5/2022,3.3,Active
+810,Nivea Face Wash,14,90,Nivea,56716.35,72770.76,4/15/2021,4.2,Active
+811,Nestle Basmati Rice,15,47,Nestle,13480.46,21295.81,7/8/2022,4.7,Active
+812,Asus Noise Cancelling Headphones,19,124,Asus,56302.28,68204.49,11/30/2021,4.9,Active
+813,Tata Almonds,6,108,Tata,40617.06,61883.24,5/19/2021,3.4,Active
+814,Funskool Building Blocks,18,49,Funskool,57630.27,82690.43,1/17/2023,4.5,Active
+815,Hasbro Remote Control Car,18,32,Hasbro,52625.03,68555.04,12/14/2023,3.6,Active
+816,Cosco Badminton Racket,7,25,Cosco,39503.32,45080.75,4/10/2025,3.6,Active
+817,Lakme Shampoo,5,30,Lakme,43222.04,67991.84,4/24/2021,3.3,Active
+818,Lego Remote Control Car,9,193,Lego,17749.69,27457.86,6/22/2022,4.6,Active
+819,Wilson Cricket Bat,16,89,Wilson,44662.94,54976.58,2/2/2025,3.8,
+820,Nestle Olive Oil,15,7,Nestle,29799.76,42113.97,3/27/2024,4.1,Active
+821,McGraw Hill Statistics Essentials,8,136,McGraw Hill,17546.78,24281.22,7/6/2024,4.5,Active
+822,Tata Green Tea,6,190,Tata,35392.97,54070.15,6/3/2021,3.4,Active
+823,HP Inspiron Laptop,19,131,HP,33715.43,45544.93,1/10/2021,4.5,Active
+824,JBL Galaxy S24 Ultra,10,38,JBL,43051.34,64874.75,5/18/2021,5,Active
+825,HP Noise Cancelling Headphones,19,22,HP,24549.63,19639.7,11/16/2024,4.7,Active
+826,Wilson Yoga Mat,16,61,Wilson,12926.56,17129,2/28/2022,3.6,Active
+827,IFB Mixer Grinder,4,49,IFB,46487.2,65584.86,5/10/2024,4.6,Active
+828,Lego Puzzle Set,9,59,Lego,11972.09,17196.43,3/28/2022,4.4,Active
+829,Amul Green Tea,15,98,Amul,29793.39,36303.34,1/13/2022,3.3,Active
+830,Nilkamal Coffee Table,2,90,Nilkamal,11380.34,16032.15,3/15/2025,4.2,Active
+831,Nivia Football,16,194,Nivia,16323.15,21081.18,1/23/2024,4.3,Active
+832,Havells Air Fryer,13,120,Havells,21222.54,26364.51,4/28/2021,3.9,Active
+833,JBL Smart Watch,1,73,JBL,38185.25,60429.31,1/20/2022,4,Active
+834,Philips Air Fryer,13,96,Philips,15481.39,20510.21,9/2/2024,4,Active
+835,Philips Air Fryer,4,137,Philips,39292.81,61853.64,5/1/2021,3.9,Active
+836,IKEA Wardrobe,11,18,IKEA,1781.89,1425.51,6/23/2025,4.9,Active
+837,Lego Building Blocks,18,189,Lego,38742.82,55356.93,5/24/2021,4.5,Active
+838,IFB Mixer Grinder,13,25,IFB,18371.77,20599.85,11/28/2022,4.6,Active
+839,Lego Remote Control Car,9,33,Lego,37123.96,58970.83,12/9/2021,4.1,Active
+840,Apple Bluetooth Speaker,1,21,Apple,39815.83,47451.21,11/4/2021,4.9,Active
+841,Maybelline Shampoo,5,130,Maybelline,27602.26,38952.46,6/17/2021,3.9,Active
+842,Nivea Body Lotion,14,164,Nivea,34559.12,51192.94,12/22/2024,4.8,Active
+843,Maybelline Shampoo,14,190,Maybelline,34072.12,43869.33,8/15/2023,4.3,Active
+844,Funskool Remote Control Car,18,132,Funskool,19025.33,29579.05,7/7/2024,3.3,Active
+845,Hasbro Action Figure,9,35,Hasbro,26082.02,29924.6,10/8/2022,4.7,Active
+846,Acer Inspiron Laptop,1,156,Acer,2309.85,3525.56,6/3/2021,3.5,Active
+847,HP OLED TV,1,122,HP,50962.87,66392.65,2/6/2025,3.7,Active
+848,Urban Ladder Study Table,11,50,Urban Ladder,30242.52,44662.86,8/23/2021,3.7,Active
+849,HarperCollins SQL Cookbook,8,81,HarperCollins,4092.83,6197.84,1/8/2021,3.7,Active
+850,Van Heusen Hoodie,3,151,Van Heusen,21325.83,17060.66,5/27/2021,4.7,Active
+851,Levi's Slim Fit Jeans,3,30,Levi's,1386,2056.4,5/1/2024,4.1,Active
+852,Urban Ladder Coffee Table,2,149,Urban Ladder,49509.58,63091.29,7/17/2021,4.7,Active
+853,Bosch Mixer Grinder,4,174,Bosch,46014.26,70496.96,10/18/2021,4.9,Active
+854,Godrej Bookshelf,11,73,Godrej,52479.15,83272.23,11/27/2025,4.3,Active
+855,HarperCollins SQL Cookbook,17,73,HarperCollins,48277.39,71643.39,7/8/2022,3.8,Active
+856,HP OLED TV,10,178,HP,49820.49,64760.25,2/14/2022,3.9,Actve
+857,Havells Microwave Oven,4,134,Havells,32747.56,48894.77,6/2/2022,4.9,Active
+858,Amul Olive Oil,15,61,Amul,56200.36,80957.48,9/19/2023,3.7,Active
+859,Amul Green Tea,6,192,Amul,38724.27,60072.62,7/9/2023,3.9,Active
+860,Funskool Action Figure,9,20,Funskool,59800.48,75736.16,12/18/2024,4.9,Active
+861,Yonex Cricket Bat,16,28,Yonex,4205.97,4820.7,7/23/2022,4.7,Active
+862,Lenovo Mechanical Keyboard,1,79,Lenovo,4208.65,4880.93,9/29/2025,4.1,
+863,Amul Basmati Rice,6,155,Amul,18967.03,28214.36,4/15/2025,3.6,Active
+864,HarperCollins Power BI Guide,17,78,HarperCollins,16526.81,22966.95,1/10/2025,4.5,Active
+865,Nivea Body Lotion,14,94,Nivea,33198.96,38264.01,6/30/2023,3.6,Active
+866,Havells Mixer Grinder,13,199,Havells,29468,23574.4,3/1/2028,3.6,Active
+867,Aashirvaad Almonds,15,100,Aashirvaad,43304.28,66222.55,5/23/2023,4,Inactive
+868,Penguin SQL Cookbook,8,81,Penguin,51112.57,56526.38,10/9/2021,3.3,Active
+869,Mamaearth Lipstick,5,90,Mamaearth,32252.89,51380.43,11/26/2022,4.3,Active
+870,Nilkamal Office Chair,2,143,Nilkamal,46215.7,53892.88,12/21/2021,3.6,Active
+871,Tata Green Tea,6,150,Tata,36435.03,29148.02,6/26/2022,4,Active
+872,Yonex Cricket Bat,7,138,Yonex,45155.17,59622.25,12/24/2022,4,Active
+873,Godrej Coffee Table,11,47,Godrej,41803.26,61550.5,1/26/2024,3.4,
+874,Cosco Yoga Mat,7,174,Cosco,38111.77,47658.74,11/6/2023,4.1,Active
+875,Lenovo Gaming Mouse,19,85,Lenovo,22421.76,31878.27,10/19/2024,4.4,Active
+876,Funskool Remote Control Car,18,105,Funskool,48898.87,76226.75,3/4/2024,3.9,Active
+877,Whirlpool Microwave Oven,13,111,Whirlpool,40391.05,57624.69,7/2/2021,5,Active
+878,HarperCollins Power BI Guide,17,33,HarperCollins,32538.38,49527.96,4/13/2023,3.8,Active
+879,Puma Formal Shirt,3,140,Puma,42975.18,68145.95,6/16/2021,4.5,Active
+880,Nestle Olive Oil,15,161,Nestle,17261.42,21342.74,9/20/2023,4.4,Active
+881,Cosco Football,7,41,Cosco,2561.02,3345.5,11/21/2024,3.7,Active
+882,Whirlpool Vacuum Cleaner,4,164,Whirlpool,3875.09,4577.78,8/22/2023,4.5,Active
+883,Urban Ladder Study Table,2,46,Urban Ladder,27327.21,34374.14,4/21/2025,4,Active
+884,Fortune Olive Oil,6,189,Fortune,56552.57,76837.68,1/5/2023,3.2,Active
+885,Mamaearth Face Wash,5,137,Mamaearth,30908.93,39718.95,8/13/2025,4.8,Active
+886,Godrej Office Chair,20,2,Godrej,14410.92,20034.6,6/13/2025,4.1,Active
+887,Sony Gaming Mouse,19,181,Sony,51820.22,72977.39,10/19/2025,5,Active
+888,Samsung Mechanical Keyboard,19,183,Samsung,262.19,308.52,8/7/2023,3.3,Active
+889,JBL Galaxy S24 Ultra,1,94,JBL,49064.33,58032.03,12/22/2022,3.2,Active
+890,Whirlpool Air Purifier,13,199,Whirlpool,7042.03,11143.95,10/12/2022,3.4,Active
+891,Nilkamal Bookshelf,2,178,Nilkamal,31579.58,37537,7/7/2025,4.4,Active
+892,Whirlpool Microwave Oven,4,95,Whirlpool,56228.86,81214.46,3/23/2023,4.8,Active
+893,Van Heusen Running Shoes,3,47,Van Heusen,3298.07,4561.22,1/14/2024,4,Active
+894,Levi's Running Shoes,3,90,Levi's,37194.49,50976.22,4/25/2024,4.4,Actve
+895,Funskool Puzzle Set,18,188,Funskool,41848.37,59074.84,9/23/2024,3.3,Active
+896,Philips Mixer Grinder,13,140,Philips,36391.85,44729.51,3/23/2024,4.5,Active
+897,Cosco Yoga Mat,7,55,Cosco,43792.28,55512.52,3/22/2022,3.8,Active
+898,Apple Noise Cancelling Headphones,10,3,Apple,59584.4,76818.4,3/8/2022,3.9,Active
+899,Havells Microwave Oven,4,171,Havells,6324.9,9630,3/29/2022,4.9,Active
+900,Funskool Puzzle Set,18,117,Funskool,12054.64,15164.02,6/15/2024,4.1,Active
+901,Sony Galaxy S24 Ultra,10,76,Sony,38853.67,51108.61,2/23/2024,3.4,Active
+902,Hasbro Action Figure,18,184,Hasbro,31135.35,42863.29,10/27/2021,3.7,Active
+903,Apple Inspiron Laptop,1,118,Apple,50544.7,56001.38,1/6/2022,4.1,Active
+904,Urban Ladder Office Chair,20,9,Urban Ladder,51108.43,68035.55,11/24/2024,4.9,Active
+905,Godrej Coffee Table,11,96,Godrej,24452.98,28986.84,9/10/2023,3.5,Active
+906,HarperCollins Power BI Guide,17,176,HarperCollins,42607.66,56808.97,5/11/2024,4.2,Active
+907,JBL iPhone 15 Pro,19,48,JBL,48013.99,61340.7,8/15/2024,3.9,Active
+908,Amul Almonds,6,178,Amul,56599.45,74901.81,8/3/2023,4.9,Active
+909,Urban Ladder Bookshelf,11,140,Urban Ladder,45702.83,71918.38,2/4/2024,3.3,Active
+910,Penguin Python for Data Analysis,8,36,Penguin,19995.35,24966.37,9/26/2024,3.5,Active
+911,Hasbro Building Blocks,18,123,Hasbro,57520.48,64030.53,3/1/2023,5,Active
+912,Lego Action Figure,18,92,Lego,1567.43,2493.65,5/2/2021,4.4,Active
+913,LG Bluetooth Speaker,19,184,LG,26193.82,32047.8,8/26/2023,3.9,Active
+914,Yonex Yoga Mat,7,129,Yonex,14042.8,18409.81,7/4/2022,4.8,Active
+915,Van Heusen Hoodie,3,136,Van Heusen,38032.76,52670.75,11/30/2021,4.2,Active
+916,Yonex Football,7,29,Yonex,25071.65,35759.29,7/1/2028,3.2,Active
+917,HarperCollins Power BI Guide,8,95,HarperCollins,59910.22,74260.58,8/20/2023,3.3,Active
+918,Nilkamal Study Table,20,57,Nilkamal,1343.69,1491.64,5/1/2028,3.7,Active
+919,Mamaearth Shampoo,14,131,Mamaearth,8231.08,11178.86,8/3/2025,4.1,Active
+920,Maybelline Body Lotion,5,164,Maybelline,41872.72,59586.78,5/25/2023,4.8,Active
+921,Urban Ladder Bookshelf,11,177,Urban Ladder,15543.21,18340.62,7/10/2024,3.3,Active
+922,McGraw Hill Python for Data Analysis,17,180,McGraw Hill,36652.14,50114.77,3/26/2021,3.5,Active
+923,Apple Galaxy S24 Ultra,1,159,Apple,33873.4,27098.72,8/27/2025,4.5,Active
+924,LG Inspiron Laptop,1,96,LG,24013.35,28851.67,7/6/2025,5,Active
+925,Amul Green Tea,15,53,Amul,4235.53,5478.68,8/4/2021,3.5,Active
+926,Nivea Perfume,14,171,Nivea,45290.58,54860.52,9/29/2021,3.2,Active
+927,Adidas Slim Fit Jeans,3,119,Adidas,7914.03,10011.11,10/19/2022,3.9,Inactive
+928,Allen Solly Sneakers,12,177,Allen Solly,52474.54,83829.47,11/18/2023,3.5,Active
+929,Apple Inspiron Laptop,1,139,Apple,34298.96,47905.21,10/20/2021,3.4,Active
+930,Lego Building Blocks,9,74,Lego,59385.82,71421.49,11/21/2022,3.3,ACTIVE
+931,McGraw Hill Statistics Essentials,8,197,McGraw Hill,18351.95,27438.59,7/21/2024,4.3,Inactive
+932,Wilson Football,7,50,Wilson,26391.14,36181.37,10/3/2021,4.8,Active
+933,Yonex Football,7,50,Yonex,49877.36,74306.69,10/16/2024,3.4,Active
+934,McGraw Hill Power BI Guide,8,199,McGraw Hill,2205.13,3078.61,8/27/2025,4,Active
+935,Lenovo OLED TV,19,103,Lenovo,37235.71,48127.76,4/27/2021,3.6,Active
+936,Apple Bluetooth Speaker,1,187,Apple,17007.27,24031.95,5/1/2025,4.7,Active
+937,Acer Mechanical Keyboard,19,172,Acer,43181.86,55922.22,11/27/2022,3.4,Active
+938,Urban Ladder Wardrobe,2,99,Urban Ladder,28830.83,40599.99,10/31/2022,4.8,Active
+939,IKEA Bookshelf,2,72,IKEA,2422.85,2747.35,10/16/2023,4.8,Active
+940,Bosch Vacuum Cleaner,13,66,Bosch,54384.76,65104.26,3/26/2023,3.4,Active
+941,Nivia Yoga Mat,16,33,Nivia,53993.92,78672.74,6/5/2025,4.7,Active
+942,IKEA Dining Table,20,139,IKEA,59320.15,87154.73,9/15/2023,3.9,Active
+943,Adidas Sneakers,3,174,Adidas,58027.66,72277,9/19/2023,4.4,
+944,Hasbro Building Blocks,18,82,Hasbro,8983.85,10839.5,9/30/2021,4.5,Active
+945,IFB Air Fryer,13,130,IFB,25796.21,33893.38,6/11/2025,3.7,Active
+946,Nivea Body Lotion,5,85,Nivea,15775.1,21028.35,5/24/2021,4.3,Active
+947,Aashirvaad Green Tea,6,111,Aashirvaad,20206.28,31308.88,8/31/2021,4.2,Active
+948,Van Heusen Sneakers,3,146,Van Heusen,17241.11,26988.38,6/9/2024,3.3,Active
+949,Godrej Bookshelf,11,112,Godrej,53404.66,67278.86,5/14/2024,4.8,Active
+950,Tata Green Tea,15,145,Tata,33899.52,51638.93,3/5/2025,4.9,Active
+951,McGraw Hill Python for Data Analysis,17,200,McGraw Hill,37087.58,55283.76,11/25/2022,4.6,Active
+952,Nestle Basmati Rice,6,112,Nestle,53680.03,59421.1,7/25/2022,3.5,Active
+953,Nilkamal Office Chair,11,79,Nilkamal,59515.06,90420.04,8/18/2024,4.1,Active
+954,Nike Formal Shirt,12,84,Nike,33055.66,41372,3/21/2025,4.1,Active
+955,Durian Coffee Table,2,122,Durian,41786.72,58823.07,11/8/2022,3.7,Active
+956,Samsung Smart Watch,10,166,Samsung,52230.44,62583.3,3/13/2022,3.6,Active
+957,Van Heusen Formal Shirt,3,2,Van Heusen,43147.68,55382.71,6/6/2025,4,Inactive
+958,Levi's Sneakers,12,23,Levi's,52125.88,80609.14,3/14/2022,4.7,Active
+959,Philips Air Purifier,13,22,Philips,36227.48,44234.42,8/24/2023,3.4,
+960,Tata Almonds,6,130,Tata,23292.55,35242.48,3/1/2025,4,Active
+961,Cosco Football,7,36,Cosco,29838.2,37134.62,3/8/2024,4.3,Active
+962,Hasbro Action Figure,9,97,Hasbro,47077.53,63719.27,6/25/2023,4.6,Active
+963,Nivea Perfume,14,102,Nivea,30436.74,42840,7/18/2023,4.5,Active
+964,Adidas Running Shoes,3,183,Adidas,59703.82,71917.15,10/2/2021,3.6,Active
+965,Wilson Cricket Bat,7,63,Wilson,34288.92,51749.41,11/30/2024,4.1,Active
+966,Lego Action Figure,18,184,Lego,11149.86,14928.23,11/29/2022,4.4,Active
+967,Samsung Gaming Mouse,10,33,Samsung,58502.07,91754.58,12/26/2024,3.9,Active
+968,IKEA Bookshelf,20,68,IKEA,9342.49,10941.19,8/14/2025,4.3,Active
+969,Lego Action Figure,9,187,Lego,30506.25,43210.85,7/2/2021,3.6,Active
+970,Lakme Perfume,14,112,Lakme,28534.86,40758.77,8/21/2024,3.9,Active
+971,Penguin Statistics Essentials,8,7,Penguin,26282.32,37892.27,6/3/2022,3.8,Active
+972,Aashirvaad Basmati Rice,15,79,Aashirvaad,35720.85,41554.19,2/9/2025,3.7,Active
+973,Tata Olive Oil,15,119,Tata,6279.32,7828.46,1/7/2022,3.7,Active
+974,Hasbro Puzzle Set,18,54,Hasbro,27586.88,41640.12,4/23/2022,4.7,Active
+975,Funskool Puzzle Set,9,172,Funskool,16368.53,24554.14,10/31/2025,4.3,Active
+976,Maybelline Perfume,5,105,Maybelline,12473.83,17915.21,3/26/2024,3.9,Active
+977,Nike Hoodie,12,65,Nike,57951.53,78335.71,10/16/2023,4.6,Active
+978,Philips Air Fryer,4,98,Philips,23841.56,29491.32,12/20/2024,3.9,Active
+979,Funskool Remote Control Car,9,149,Funskool,23444.69,37335.66,8/5/2025,4.6,Active
+980,Maybelline Face Wash,5,191,Maybelline,38341.42,57958.74,11/14/2021,4.9,Active
+981,Samsung Gaming Mouse,19,170,Samsung,13567.84,15346.83,1/22/2024,4.9,Active
+982,Godrej Coffee Table,20,192,Godrej,54816.44,66668.55,9/6/2025,3.4,Active
+983,IFB Vacuum Cleaner,13,145,IFB,37788.02,55863.59,2/28/2021,4.5,Active
+984,Nilkamal Study Table,20,147,Nilkamal,25086.35,39913.63,10/18/2022,3.6,Active
+985,McGraw Hill Statistics Essentials,17,166,McGraw Hill,10235.89,11588.01,7/22/2021,3.9,Active
+986,Nivea Lipstick,5,10,Nivea,53093.37,60079.89,3/11/2022,4.3,Active
+987,HP Mechanical Keyboard,10,132,HP,17668.22,21272.59,6/1/2025,4.6,Active
+988,Hasbro Remote Control Car,9,142,Hasbro,31300.79,45523.23,11/2/2021,3.7,Active
+989,Urban Ladder Office Chair,2,115,Urban Ladder,39959.62,44322.66,4/29/2022,4.4,Active
+990,McGraw Hill Power BI Guide,17,104,McGraw Hill,7327.46,9165.43,6/17/2025,4.8,Active
+991,Nestle Green Tea,15,53,Nestle,1798.86,2874.62,2/4/2021,4.4,Active
+992,Lenovo Smart Watch,1,90,Lenovo,30863.14,35176.69,1/4/2023,4.8,Active
+993,Levi's Sneakers,3,67,Levi's,3943.62,5569.08,3/27/2024,3.9,Active
+994,Acer Noise Cancelling Headphones,19,8,Acer,21525.75,30184.04,7/18/2024,4.2,Active
+995,Nike Running Shoes,12,170,Nike,38013.23,49125.84,5/20/2025,4.6,Active
+996,Asus Galaxy S24 Ultra,1,122,Asus,6275.92,8175.88,3/12/2022,4.7,Active
+997,Durian Wardrobe,11,26,Durian,3837.73,5122.95,9/14/2023,5,Active
+998,Mamaearth Perfume,14,56,Mamaearth,18511.96,25130,4/23/2023,4.5,Active
+999,Adidas Hoodie,3,106,Adidas,41465.29,65788.91,5/2/2023,4.3,Active
+1000,Maybelline Perfume,14,126,Maybelline,12072.08,9657.66,6/11/2025,4.1,Active
