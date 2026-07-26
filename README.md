@@ -514,7 +514,7 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-!\[Executive Overview](PowerBI/Dashboard\_Screenshots/Executive%20Overview.png)
+!\[Executive Overview](PowerBI/Dashboard\_Screenshots/Executive\_Overview.png)
 
 
 
@@ -526,7 +526,7 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-!\[Sales Dashboard](PowerBI/Dashboard\_Screenshots/Sales%20Dashboard.png)
+!\[Sales Dashboard](PowerBI/Dashboard\_Screenshots/Sales\_Dashboard.png)
 
 
 
@@ -538,7 +538,7 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-!\[Customers Dashboard](PowerBI/Dashboard\_Screenshots/Customers%20Dashboard.png)
+!\[Customers Dashboard](PowerBI/Dashboard\_Screenshots/Customers\_Dashboard.png)
 
 
 
@@ -550,7 +550,7 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-!\[Products Dashboard](PowerBI/Dashboard\_Screenshots/Products%20Dashboard.png)
+!\[Products Dashboard](PowerBI/Dashboard\_Screenshots/Products\_Dashboard.png)
 
 
 
@@ -562,7 +562,7 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-!\[Inventory Dashboard](PowerBI/Dashboard\_Screenshots/Inventory%20Dashboard.png)
+!\[Inventory Dashboard](PowerBI/Dashboard\_Screenshots/Inventory\_Dashboard.png)
 
 
 
@@ -574,7 +574,7 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-!\[Marketing Dashboard](PowerBI/Dashboard\_Screenshots/Marketing%20Dashboard.png)
+!\[Marketing Dashboard](PowerBI/Dashboard\_Screenshots/Marketing\_Dashboard.png)
 
 
 
@@ -586,7 +586,7 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-!\[Logistics Dashboard](PowerBI/Dashboard\_Screenshots/Logistics%20Dashboard.png)
+!\[Logistics Dashboard](PowerBI/Dashboard\_Screenshots/Logistics\_Dashboard.png)
 
 
 
@@ -598,5 +598,5 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 
 
-!\[Product Details](PowerBI/Dashboard\_Screenshots/Product%20Details.png)
+!\[Product Details](PowerBI/Dashboard\_Screenshots/Product\_Details.png)
 
